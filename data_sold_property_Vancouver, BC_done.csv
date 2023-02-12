@@ -1,0 +1,1101 @@
+Price,address,Type,City,Province,,Number of Bedrooms,Number of Bathrooms,Square Ft.,Sold_date
+3243000,5741 Rhodes St,Single House, Vancouver,BC,V5R 3P3,6.00,6.50,3152,5/31/2022
+520000,3660 Vanness Ave ,Apartment, Vancouver,BC,V5R 6H8,1.00,1.00,583,3/10/2022
+520000,3660 Vanness Ave ,Apartment, Vancouver,BC,V5R 6H8,1.00,1.00,583,3/10/2022
+550000,3480 Yardley Ave ,Apartment, Vancouver,BC,V5R,2.00,1.00,759,8/31/2022
+1780000,3248 Austrey Ave,Single House, Vancouver,BC,V5R 4V7,6.00,3.00,2023,5/30/2022
+2100000,2599 Brock St,Single House, Vancouver,BC,V5R 2R3,5.00,2.50,2189,5/5/2022
+569000,4818 Eldorado Mews ,Apartment, Vancouver,BC,V5R 0B3,1.00,1.00,538,10/28/2022
+2180000,5636 Killarney St,Single House, Vancouver,BC,V5R 3W2,3.00,1.50,2492,4/29/2022
+2800000,2606 E 34th Ave,Single House, Vancouver,BC,V5R 2T2,7.00,4.50,3794,6/8/2022
+1560000,5114 Fairmont St,Single House, Vancouver,BC,V5R 3V3,5.00,2.00,2168,3/30/2022
+1555000,5025 Earles St,Single House, Vancouver,BC,V5R 3R8,4.00,2.00,1957,2/28/2022
+924000,110 Switchmen St ,Apartment, Vancouver,BC,V6A 0C6,2.00,2.50,853,11/14/2022
+1850000,1277 Melville St ,Apartment, Vancouver,BC,V6E 0A4,2.00,2.00,1431,9/6/2022
+1000000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,2.00,2.50,943,5/11/2022
+1090000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,2.00,2.50,943,3/31/2022
+625000,1725 Pendrell St ,Apartment, Vancouver,BC,V6G 2X7,1.00,1.00,668,11/4/2022
+1285000,1406 Harwood St ,Apartment, Vancouver,BC,V6G 1X5,2.00,1.00,929,7/29/2022
+8780952,4503 W 1st Ave,Single House, Vancouver,BC,V6R 1H7,4.00,4.00,4408,3/11/2022
+664500,1688 Robson St ,Apartment, Vancouver,BC,V6G 1C7,1.00,1.00,539,6/1/2022
+820000,1200 Alberni St ,Apartment, Vancouver,BC,V6E 1A6,2.00,2.50,888,11/4/2022
+6300000,4538 Langara Ave,Single House, Vancouver,BC,V6R 1C8,3.00,5.50,4088,4/18/2022
+2694000,4218 W 13th Ave,Single House, Vancouver,BC,V6R 2T8,4.00,3.50,2879,11/12/2022
+1680000,1860 Robson St ,Apartment, Vancouver,BC,V6G 3C1,3.00,2.00,1651,4/21/2022
+540000,1967 Barclay St ,Apartment, Vancouver,BC,V6G 1L1,1.00,1.00,549,10/27/2022
+1160000,2288 Pine St ,Apartment, Vancouver,BC,V6J 5G4,2.00,2.00,1128,10/26/2022
+8000000,4627 Bellevue Dr,Single House, Vancouver,BC,V6R 1E7,3.00,1.50,3490,4/28/2022
+1378000,1867 W 3rd Ave ,Apartment, Vancouver,BC,V6J 1K9,3.00,2.00,1386,11/10/2022
+788000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,1.00,1.00,760,5/2/2022
+752000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,1.00,1.00,668,3/30/2022
+1250000,209 E 39th Ave,Single House, Vancouver,BC,V5W 1K1,2.00,1.00,1782,3/25/2022
+2100000,8 Smithe Mews ,Apartment, Vancouver,BC,V6B 0A5,2.00,2.50,1399,7/14/2022
+665000,1331 W Georgia St ,Apartment, Vancouver,BC,V6E 4P1,1.00,1.00,556,5/10/2022
+1015000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,2.00,2.00,872,5/30/2022
+762000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,1.00,1.00,532,4/28/2022
+850000,4625 Valley Dr ,Apartment, Vancouver,BC,V6J 5L7,1.00,1.00,804,3/30/2022
+1029344,1155 Seymour St ,Apartment, Vancouver,BC,V6B 3N3,2.00,2.50,914,3/30/2022
+1335000,1650 W 1st Ave ,Apartment, Vancouver,BC,V6J 1G1,2.00,2.50,875,5/16/2022
+1100000,33 Smithe St ,Apartment, Vancouver,BC,V6B 0B5,2.00,2.00,918,3/24/2022
+1750000,3378 Seaforth Dr,Single House, Vancouver,BC,V5M 4C5,3.00,1.00,1282,6/1/2022
+1750000,3378 Seaforth Dr,Single House, Vancouver,BC,V5M 4C5,3.00,1.00,1282,6/1/2022
+735000,1420 W Georgia St ,Apartment, Vancouver,BC,V6G 3K4,1.00,1.00,681,4/28/2022
+920000,555 Jervis St ,Apartment, Vancouver,BC,V6E 4N1,1.00,1.00,667,6/15/2022
+1435000,1389 E 39th Ave,Single House, Vancouver,BC,V5P 2X9,2.00,1.50,1490,6/29/2022
+975000,5868 Fraser St ,Apartment, Vancouver,BC,V5W 2Z5,2.00,1.50,1076,9/1/2022
+4900000,1656 Nanton Ave,Single House, Vancouver,BC,V6J 2X4,4.00,4.00,4039,6/1/2022
+1225777,3468 Porter St,Single House, Vancouver,BC,V5N 4E9,2.00,2.50,1193,6/16/2022
+658000,438 Seymour St ,Apartment, Vancouver,BC,V6B 6H4,1.00,1.00,560,5/30/2022
+1400000,5138 Fraser St,Single House, Vancouver,BC,V5W 2Y9,3.00,1.50,949,4/29/2022
+767000,6363 Main St,Single House, Vancouver,BC,V5W 2V2,6.00,4.00,1918,11/14/2022
+1715000,3059 E 1st Ave,Single House, Vancouver,BC,V5M 1B3,4.00,2.00,1550,3/14/2022
+625000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,647,8/2/2022
+1280000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,3/4/2022
+1190000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,8/10/2022
+775000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,649,3/30/2022
+460000,4372 Fraser St ,Apartment, Vancouver,BC,V5V 4G3,1.00,1.50,478,6/20/2022
+675000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,509,9/2/2022
+1220000,1490 Pennyfarthing Dr,Apartment, Vancouver,BC,V6J 4X8,2.00,2.50,1497,11/30/2022
+1840000,8380 Beatrice St,Single House, Vancouver,BC,V5P 3R9,3.00,2.00,1760,4/25/2022
+1800000,2091 E 20th Ave,Single House, Vancouver,BC,V5N 2L1,4.00,2.00,2088,4/12/2022
+930000,1635 W 3rd Ave ,Apartment, Vancouver,BC,V6J 0B6,2.00,2.50,800,10/27/2022
+2250000,1421 E 62nd Ave,Single House, Vancouver,BC,V5P 2K6,4.00,2.00,1843,5/20/2022
+597000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,572,10/28/2022
+2980000,1348 E 24th Ave,Single House, Vancouver,BC,V5V 2B7,6.00,4.50,2878,4/5/2022
+1820000,518 E 18th Ave,Single House, Vancouver,BC,V5V 1G3,5.00,3.50,2112,4/19/2022
+1630000,1762 Davie St ,Apartment, Vancouver,BC,V6G 1W2,2.00,2.00,1580,3/11/2022
+1975000,2211 E 1st Ave,Single House, Vancouver,BC,V5N 1C1,6.00,5.00,2345,7/29/2022
+820000,428 W 8th Ave ,Apartment, Vancouver,BC,V5Y 1N9,1.00,1.50,784,5/17/2022
+2220000,2271 E 43rd Ave,Single House, Vancouver,BC,V5P 1M8,6.00,4.00,2505,2/15/2022
+3694000,1688 W 61st Ave,Single House, Vancouver,BC,V6P 2C3,4.00,5.00,3838,6/2/2022
+4250000,58 W 17th Ave,Single House, Vancouver,BC,V5Y 1Z4,6.00,4.50,3282,3/24/2022
+4410000,105 W 43rd Ave,Single House, Vancouver,BC,V5Y 2T6,8.00,6.50,4098,3/8/2022
+1450000,179 E 17th Ave,Single House, Vancouver,BC,V5V 1A5,2.00,2.50,1209,2/23/2022
+2400000,1275 Maple St,Single House, Vancouver,BC,V6J 3R8,4.00,2.00,1131,3/31/2022
+2850000,2045 E Broadway,Single House, Vancouver,BC,V5N 1W6,5.00,2.50,2588,12/1/2022
+7800000,2007 W 29th Ave,Single House, Vancouver,BC,V6J 2Z9,4.00,8.00,5906,11/29/2022
+2320000,996 E 20th Ave,Single House, Vancouver,BC,V5V 1N6,2.00,1.00,1773,6/28/2022
+2100000,499 Drake St ,Apartment, Vancouver,BC,V6B 1B1,2.00,2.50,1426,10/4/2022
+775000,1275 Hamilton St ,Apartment, Vancouver,BC,V6B 6K3,1.00,1.00,704,5/16/2022
+545000,63 Keefer Pl ,Apartment, Vancouver,BC,V6B 6N6,1.00,1.50,589,5/20/2022
+1669000,1243 Homer St,Single House, Vancouver,BC,V6B 2Y9,1.00,2.00,1323,4/27/2022
+4200000,181 Athletes Way ,Apartment, Vancouver,BC,V5Y 0E5,3.00,2.50,2395,11/29/2022
+678000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,731,2/18/2022
+600000,5555 Victoria Dr ,Apartment, Vancouver,BC,V5P 4Y3,2.00,2.00,824,7/11/2022
+480000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,520,2/24/2022
+705000,1887 Crowe St ,Apartment, Vancouver,BC,V5Y 0B4,1.00,1.00,607,6/30/2022
+500000,8770 Laurel St ,Apartment, Vancouver,BC,V6P 3V6,1.00,2.50,886,4/8/2022
+1430000,6856 Victoria Dr,Single House, Vancouver,BC,V5P 3Y5,5.00,2.00,1238,6/16/2022
+2300000,1855 Vine St ,Apartment, Vancouver,BC,V6K 3J8,2.00,1.50,1338,4/28/2022
+780000,2768 Cranberry Dr ,Apartment, Vancouver,BC,V6K 4V1,1.00,1.00,655,7/7/2022
+845000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,1.00,1.00,695,8/8/2022
+782000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,1.00,1.00,563,4/20/2022
+555000,2238 Kingsway ,Apartment, Vancouver,BC,V5N 2T7,2.00,2.00,784,2/15/2022
+620000,1611 E 3rd Ave ,Apartment, Vancouver,BC,V5N 1H1,1.00,1.00,690,5/4/2022
+705000,822 Seymour St ,Apartment, Vancouver,BC,V6B 1L7,2.00,2.50,741,8/4/2022
+1495000,1372 Seymour St ,Apartment, Vancouver,BC,V6B 3P3,2.00,2.50,982,4/8/2022
+4860000,19 Peveril Ave,Single House, Vancouver,BC,V5Y 2L2,5.00,5.00,3672,6/1/2022
+4650000,4431 Ontario St,Single House, Vancouver,BC,V5V 3H2,3.00,4.00,3299,6/24/2022
+549000,8988 Hudson St ,Apartment, Vancouver,BC,V6P 6Z1,1.00,1.00,615,3/9/2022
+1725000,4320 Nanaimo St,Single House, Vancouver,BC,V5R 5G9,3.00,2.00,1340,3/29/2022
+630000,1351 Continental St ,Apartment, Vancouver,BC,V6Z 0C6,1.00,1.00,513,3/4/2022
+2380000,1513 W 66th Ave,Single House, Vancouver,BC,V6P 2R8,4.00,3.50,2378,11/25/2022
+3538000,7061 Cypress St,Single House, Vancouver,BC,V6P 5M2,2.00,2.50,3673,4/13/2022
+1820000,4858 Beatrice St,Single House, Vancouver,BC,V5N 4J4,5.00,4.00,2026,6/29/2022
+1030000,928 Richards St ,Apartment, Vancouver,BC,V6B 3C1,2.00,2.50,752,9/20/2022
+3900000,1438 W 55th Ave,Single House, Vancouver,BC,V6P 1R5,7.00,3.50,3703,6/30/2022
+941400,2258 E 7th Ave,Single House, Vancouver,BC,V5N 1S7,5.00,3.50,2629,11/25/2022
+701000,909 Mainland St ,Apartment, Vancouver,BC,V6B 1S3,1.00,1.00,589,3/31/2022
+1113000,199 Drake St,Apartment, Vancouver,BC,V6Z 2Y8,2.00,2.00,1192,3/9/2022
+1600000,4514 Nanaimo St,Single House, Vancouver,BC,V5N 5J4,4.00,4.50,1640,11/7/2022
+520000,774 Great Northern Way ,Apartment, Vancouver,BC,V5T 1E1,1.00,1.00,614,8/12/2022
+1680000,3494 Franklin St,Single House, Vancouver,BC,V5K 1Y3,2.00,1.00,2104,10/27/2022
+1160000,2758 Dundas St,Single House, Vancouver,BC,V5K 1R2,1.00,1.00,1289,5/30/2022
+633000,570 E 8th Ave ,Apartment, Vancouver,BC,V5T 1S8,1.00,1.00,632,8/10/2022
+1017000,1081 W 8th Ave ,Apartment, Vancouver,BC,V6H 1C3,2.00,1.00,966,2/14/2022
+2350000,2115 E 13th Ave,Single House, Vancouver,BC,V5N 2C6,5.00,2.50,2100,4/28/2022
+800000,1445 Marpole Ave ,Apartment, Vancouver,BC,V6H 1S5,2.00,1.00,819,10/28/2022
+1925000,1199 Seymour St ,Apartment, Vancouver,BC,V6B 1K3,2.00,2.00,1238,3/15/2022
+529200,989 Beatty St ,Apartment, Vancouver,BC,V6Z 3C2,1.00,1.00,482,9/14/2022
+1185000,1228 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W4,2.00,2.00,964,5/2/2022
+2275000,2826 Wall St,Single House, Vancouver,BC,V5K 1B2,2.00,1.00,920,5/2/2022
+750000,1225 Richards St ,Apartment, Vancouver,BC,V6B 1E6,1.00,1.00,592,6/15/2022
+1630000,2540 Triumph St,Single House, Vancouver,BC,V5K 1S8,5.00,2.00,2805,5/31/2022
+950000,3611 W 18th Ave ,Apartment, Vancouver,BC,V6S 1B3,2.00,2.00,788,2/24/2022
+1800000,2630 Eton St,Single House, Vancouver,BC,V5K 1K1,3.00,1.00,1953,7/20/2022
+740000,350 E 5th Ave ,Apartment, Vancouver,BC,V5T 1H4,1.00,1.00,545,6/29/2022
+550000,588 E 5th Ave ,Apartment, Vancouver,BC,V5T 4H6,1.00,1.00,673,5/9/2022
+2385000,3907 Dunbar St,Single House, Vancouver,BC,V6S 2E3,4.00,2.00,2075,2/15/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1244,4/26/2022
+885000,501 Pacific St ,Apartment, Vancouver,BC,V6Z 2X6,1.00,1.00,777,6/21/2022
+3600000,426 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E9,2.00,2.50,1837,5/2/2022
+3425000,1288 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W5,4.00,4.00,2035,7/7/2022
+1720000,3510 William St,Single House, Vancouver,BC,V5K 2Z7,5.00,2.00,1500,5/30/2022
+1900000,1067 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2Z5,3.00,2.00,1286,5/31/2022
+1050000,72 E 15th Ave,Single House, Vancouver,BC,V5T 2P4,2.00,2.50,1214,11/22/2022
+950000,838 W Hastings St ,Apartment, Vancouver,BC,V6C 0A6,2.00,1.00,802,4/8/2022
+4000000,2840 W 1st Ave,Single House, Vancouver,BC,V6K 1H4,2.00,2.50,2318,3/15/2022
+785000,489 Interurban Wy ,Apartment, Vancouver,BC,V5X 0C7,2.00,2.00,795,4/1/2022
+1860000,2616 Napier St,Single House, Vancouver,BC,V5K 2W6,4.00,1.50,2107,6/1/2022
+471000,688 E 56th Ave ,Apartment, Vancouver,BC,V5X 3V6,1.00,1.00,645,2/18/2022
+598000,950 Drake St ,Apartment, Vancouver,BC,V6Z 2B9,1.00,1.00,622,6/3/2022
+1218000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,2.00,2.50,911,11/9/2022
+4995000,4772 Narvaez Dr,Single House, Vancouver,BC,V6L 2J2,3.00,2.50,3078,9/6/2022
+1635000,488 E 16th Ave,Single House, Vancouver,BC,V5T 2T9,5.00,3.00,1866,3/17/2022
+490000,2288 W Broadway ,Apartment, Vancouver,BC,V6K 3L1,1.00,1.00,526,9/8/2022
+2650000,1501 Howe St,Apartment, Vancouver,BC,V6Z 2P8,4.00,1.50,1942,4/29/2022
+7206000,5941 Chancellor Blvd,Single House, Vancouver,BC,V6T 1E6,4.00,3.50,4691,10/14/2022
+11900000,4262 Carnarvon St,Single House, Vancouver,BC,V6L 2S2,5.00,4.50,5058,7/13/2022
+845000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,821,11/21/2022
+990000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,859,5/30/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1142,2/15/2022
+1705000,1066 E 54th Ave,Single House, Vancouver,BC,V5X 1L7,5.00,2.50,2364,2/18/2022
+2080000,1201 W 7th Ave,Single House, Vancouver,BC,V6H 1B7,3.00,2.00,1681,3/29/2022
+685080,2101 McMullen Ave ,Apartment, Vancouver,BC,V6L 3B4,1.00,1.00,910,4/5/2022
+950000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,1.00,1.00,719,6/28/2022
+1926000,283 W 63rd Ave,Single House, Vancouver,BC,V5X 2H9,7.00,3.00,2108,10/13/2022
+4831000,2393 McBain Ave,Single House, Vancouver,BC,V6L 2C5,4.00,6.00,3894,12/5/2022
+1522000,2328 Windsor St,Single House, Vancouver,BC,V5T 3Z5,3.00,2.50,1150,5/6/2022
+1890000,583 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E6,2.00,2.00,1150,7/15/2022
+1530000,1408 Strathmore Mews ,Apartment, Vancouver,BC,V6Z 3B1,2.00,2.00,1060,4/28/2022
+605000,789 Drake St ,Apartment, Vancouver,BC,V6Z 2N7,2.00,2.00,689,3/31/2022
+3500000,416 E 63rd Ave,Single House, Vancouver,BC,V5X 2K2,8.00,6.50,3403,9/12/2022
+1200000,1160 Burrard St ,Apartment, Vancouver,BC,V6Z 2E8,2.00,1.50,1121,4/4/2022
+1070000,2688 Watson St ,Apartment, Vancouver,BC,V5T 4T6,2.00,1.00,952,3/4/2022
+3300000,3122 W 16th Ave,Single House, Vancouver,BC,V6K 3E1,2.00,1.00,1968,3/2/2022
+2625000,536 E 8th Ave,Single House, Vancouver,BC,V5T 1S8,3.00,1.00,1100,5/27/2022
+1500000,549 E 7th Ave,Single House, Vancouver,BC,V5T 1N8,2.00,2.00,1226,9/20/2022
+1078750,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,863,6/30/2022
+875000,2083 W 33rd Ave ,Apartment, Vancouver,BC,V6M 4M6,2.00,2.50,815,3/16/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+1825000,5890 Balsam St ,Apartment, Vancouver,BC,V6M 4B9,3.00,2.50,1586,2/23/2022
+820000,2103 W 45th Ave ,Apartment, Vancouver,BC,V6M 3X3,2.00,2.50,859,11/15/2022
+3500000,2129 W 35th Ave,Single House, Vancouver,BC,V6M 1J2,5.00,6.00,3523,3/31/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+587000,5770 Oak St ,Apartment, Vancouver,BC,V6M 2V9,1.00,1.00,742,7/4/2022
+932500,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,778,6/30/2022
+1024600,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,759,2/28/2022
+4525000,2136 W 48th Ave,Single House, Vancouver,BC,V6M 2P5,4.00,2.00,3223,8/16/2022
+2375000,2242 W 49th Ave,Single House, Vancouver,BC,V6M 2T9,4.00,2.00,1934,5/16/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+1220000,522 W 8th Ave ,Apartment, Vancouver,BC,V5Z 0A9,2.00,2.50,1016,8/15/2022
+1100000,503 W 16th Ave ,Apartment, Vancouver,BC,V5Z 4N3,2.00,1.00,1466,7/29/2022
+1406500,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,2.00,2.00,1166,8/11/2022
+540000,2333 Triumph St ,Apartment, Vancouver,BC,V5L 1L4,1.00,1.00,649,3/1/2022
+670000,925 W 10th Ave ,Apartment, Vancouver,BC,V5Z 1L9,1.00,1.00,657,2/22/2022
+1100000,788 W 14th Ave ,Apartment, Vancouver,BC,V5Z 1P9,2.00,2.00,1157,7/20/2022
+925000,980 W 21st Ave ,Apartment, Vancouver,BC,V5Z 1Z1,2.00,2.50,988,11/15/2022
+1560000,1133 Templeton Dr,Single House, Vancouver,BC,V5L 2N9,2.00,2.50,1177,2/24/2022
+575000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,663,5/24/2022
+4900000,1967 Napier St,Single House, Vancouver,BC,V5L 2N6,8.00,2.00,5038,7/29/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+630000,1484 Charles St ,Apartment, Vancouver,BC,V5L 2S8,1.00,1.00,585,8/29/2022
+2800000,2081 Napier St,Single House, Vancouver,BC,V5L 2N8,6.00,3.00,2814,4/21/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+820000,2103 W 45th Ave ,Apartment, Vancouver,BC,V6M 3X3,2.00,2.50,859,11/15/2022
+3918000,1260 W 38th Ave,Single House, Vancouver,BC,V6M 1R1,4.00,2.50,3832,11/30/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+932500,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,778,6/30/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+750000,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,1.00,1.00,707,10/31/2022
+1863000,626 W 26th Ave,Single House, Vancouver,BC,V5Z 4H6,3.00,3.50,1756,9/6/2022
+700000,997 W 22nd Ave ,Apartment, Vancouver,BC,V5Z 2A2,1.00,1.00,598,6/30/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+2070000,3158 E 52nd Ave,Single House, Vancouver,BC,V5S 1T8,4.00,3.50,2254,7/7/2022
+1835000,2239 W 7th Ave ,Apartment, Vancouver,BC,V6K 1Y3,3.00,2.50,1301,7/12/2022
+5500000,6855 Cypress St,Single House, Vancouver,BC,V6P 5L9,5.00,2.50,2705,4/28/2022
+1060000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,1.50,1018,4/20/2022
+1010000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,2.50,931,2/24/2022
+515000,8031 Nunavut Lane ,Apartment, Vancouver,BC,V5X 0C9,1.00,1.00,453,4/13/2022
+823000,1688 Pullman Porter St ,Apartment, Vancouver,BC,V6A 0H3,1.00,1.50,674,2/18/2022
+1139000,2250 Commercial Dr ,Apartment, Vancouver,BC,V5N 4B5,2.00,1.50,964,3/24/2022
+500000,707 E 43rd Ave ,Apartment, Vancouver,BC,V5W 0C1,1.00,1.00,612,6/30/2022
+825600,6665 Main St ,Apartment, Vancouver,BC,V5X 3H3,2.00,2.50,1115,3/31/2022
+597000,488 SW Marine Dr ,Apartment, Vancouver,BC,V5X 0C7,1.00,1.00,497,6/22/2022
+880000,3263 Pierview Cres ,Apartment, Vancouver,BC,V5S 0C3,2.00,2.50,926,4/4/2022
+2525000,3896 Slocan St,Single House, Vancouver,BC,V5R 1Y5,7.00,3.50,2325,6/27/2022
+575800,204-53 W Hastings St ,Apartment, Vancouver,BC,V6B 1G4,2.00,1.00,797,4/29/2022
+608000,188 Keefer St ,Apartment, Vancouver,BC,V6A 1X4,1.00,1.00,520,10/31/2022
+1388888,1925 Alberni St ,Apartment, Vancouver,BC,V6G 0A3,2.00,2.50,1038,11/22/2022
+603000,1009 Harwood St ,Apartment, Vancouver,BC,V6Z 0C2,1.00,1.00,479,5/6/2022
+1500000,1488 W Hastings St,Single House, Vancouver,BC,V6E 3X2,3.00,2.50,1308,5/2/2022
+3243000,5741 Rhodes St,Single House, Vancouver,BC,V5R 3P3,6.00,6.50,3152,5/31/2022
+520000,3660 Vanness Ave ,Apartment, Vancouver,BC,V5R 6H8,1.00,1.00,583,3/10/2022
+550000,3480 Yardley Ave ,Apartment, Vancouver,BC,V5R,2.00,1.00,759,8/31/2022
+704000,5663 Senlac St,Single House, Vancouver,BC,V5R 6G8,3.00,2.50,1400,3/29/2022
+2180000,5636 Killarney St,Single House, Vancouver,BC,V5R 3W2,3.00,1.50,2492,4/29/2022
+1850000,3338 Austrey Ave,Single House, Vancouver,BC,V5R 4V9,2.00,3.00,1977,6/29/2022
+1560000,5114 Fairmont St,Single House, Vancouver,BC,V5R 3V3,5.00,2.00,2168,3/30/2022
+1555000,5025 Earles St,Single House, Vancouver,BC,V5R 3R8,4.00,2.00,1957,2/28/2022
+985000,150 Alexander St ,Apartment, Vancouver,BC,V6A 1B5,1.00,1.00,958,8/25/2022
+1598000,1088 Quebec St ,Apartment, Vancouver,BC,V6A 4H2,3.00,2.00,1443,3/17/2022
+924000,110 Switchmen St ,Apartment, Vancouver,BC,V6A 0C6,2.00,2.50,853,11/14/2022
+2225000,1205 W Hastings St ,Apartment, Vancouver,BC,V6E 4T7,2.00,2.00,1277,6/8/2022
+1850000,1277 Melville St ,Apartment, Vancouver,BC,V6E 0A4,2.00,2.00,1431,9/6/2022
+1000000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,2.00,2.50,943,5/11/2022
+575000,921 Thurlow St ,Apartment, Vancouver,BC,V6E 1W3,1.00,1.00,599,5/31/2022
+950000,1238 Melville St ,Apartment, Vancouver,BC,V6E 4N2,2.00,2.50,946,5/31/2022
+728000,1277 Nelson St ,Apartment, Vancouver,BC,V6E 4M8,1.00,1.00,736,8/12/2022
+625000,1725 Pendrell St ,Apartment, Vancouver,BC,V6G 2X7,1.00,1.00,668,11/4/2022
+1285000,1406 Harwood St ,Apartment, Vancouver,BC,V6G 1X5,2.00,1.00,929,7/29/2022
+1069000,1288 Alberni St ,Apartment, Vancouver,BC,V6E 4N5,2.00,2.50,908,9/13/2022
+2006000,1789 Davie St ,Apartment, Vancouver,BC,V6G 1W5,2.00,2.50,1430,10/11/2022
+664500,1688 Robson St ,Apartment, Vancouver,BC,V6G 1C7,1.00,1.00,539,6/1/2022
+820000,1200 Alberni St ,Apartment, Vancouver,BC,V6E 1A6,2.00,2.50,888,11/4/2022
+6300000,4538 Langara Ave,Single House, Vancouver,BC,V6R 1C8,3.00,5.50,4088,4/18/2022
+2694000,4218 W 13th Ave,Single House, Vancouver,BC,V6R 2T8,4.00,3.50,2879,11/12/2022
+540000,1967 Barclay St ,Apartment, Vancouver,BC,V6G 1L1,1.00,1.00,549,10/27/2022
+1200000,2681 E 18th Ave,Single House, Vancouver,BC,V5M 2P6,1.00,1.00,566,3/24/2022
+3588000,3311 W 7th Ave,Single House, Vancouver,BC,V6R 1V9,6.00,4.00,2982,6/23/2022
+8000000,4627 Bellevue Dr,Single House, Vancouver,BC,V6R 1E7,3.00,1.50,3490,4/28/2022
+1378000,1867 W 3rd Ave ,Apartment, Vancouver,BC,V6J 1K9,3.00,2.00,1386,11/10/2022
+752000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,1.00,1.00,668,3/30/2022
+1250000,209 E 39th Ave,Single House, Vancouver,BC,V5W 1K1,2.00,1.00,1782,3/25/2022
+665000,1331 W Georgia St ,Apartment, Vancouver,BC,V6E 4P1,1.00,1.00,556,5/10/2022
+1015000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,2.00,2.00,872,5/30/2022
+850000,4625 Valley Dr ,Apartment, Vancouver,BC,V6J 5L7,1.00,1.00,804,3/30/2022
+2068000,2890 E 16th Ave,Single House, Vancouver,BC,V5M 2M1,4.00,3.50,2366,8/31/2022
+600000,977 Mainland St ,Apartment, Vancouver,BC,V6B 1T2,1.00,1.00,537,11/30/2022
+1335000,1650 W 1st Ave ,Apartment, Vancouver,BC,V6J 1G1,2.00,2.50,875,5/16/2022
+1100000,33 Smithe St ,Apartment, Vancouver,BC,V6B 0B5,2.00,2.00,918,3/24/2022
+1750000,3378 Seaforth Dr,Single House, Vancouver,BC,V5M 4C5,3.00,1.00,1282,6/1/2022
+735000,1420 W Georgia St ,Apartment, Vancouver,BC,V6G 3K4,1.00,1.00,681,4/28/2022
+920000,555 Jervis St ,Apartment, Vancouver,BC,V6E 4N1,1.00,1.00,667,6/15/2022
+1435000,1389 E 39th Ave,Single House, Vancouver,BC,V5P 2X9,2.00,1.50,1490,6/29/2022
+975000,5868 Fraser St ,Apartment, Vancouver,BC,V5W 2Z5,2.00,1.50,1076,9/1/2022
+4900000,1656 Nanton Ave,Single House, Vancouver,BC,V6J 2X4,4.00,4.00,4039,6/1/2022
+1225777,3468 Porter St,Single House, Vancouver,BC,V5N 4E9,2.00,2.50,1193,6/16/2022
+658000,438 Seymour St ,Apartment, Vancouver,BC,V6B 6H4,1.00,1.00,560,5/30/2022
+1400000,5138 Fraser St,Single House, Vancouver,BC,V5W 2Y9,3.00,1.50,949,4/29/2022
+767000,6363 Main St,Single House, Vancouver,BC,V5W 2V2,6.00,4.00,1918,11/14/2022
+1715000,3059 E 1st Ave,Single House, Vancouver,BC,V5M 1B3,4.00,2.00,1550,3/14/2022
+625000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,647,8/2/2022
+1280000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,3/4/2022
+1190000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,8/10/2022
+775000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,649,3/30/2022
+460000,4372 Fraser St ,Apartment, Vancouver,BC,V5V 4G3,1.00,1.50,478,6/20/2022
+675000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,509,9/2/2022
+1220000,1490 Pennyfarthing Dr,Apartment, Vancouver,BC,V6J 4X8,2.00,2.50,1497,11/30/2022
+1840000,8380 Beatrice St,Single House, Vancouver,BC,V5P 3R9,3.00,2.00,1760,4/25/2022
+1800000,2091 E 20th Ave,Single House, Vancouver,BC,V5N 2L1,4.00,2.00,2088,4/12/2022
+930000,1635 W 3rd Ave ,Apartment, Vancouver,BC,V6J 0B6,2.00,2.50,800,10/27/2022
+2250000,1421 E 62nd Ave,Single House, Vancouver,BC,V5P 2K6,4.00,2.00,1843,5/20/2022
+597000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,572,10/28/2022
+2980000,1348 E 24th Ave,Single House, Vancouver,BC,V5V 2B7,6.00,4.50,2878,4/5/2022
+1820000,518 E 18th Ave,Single House, Vancouver,BC,V5V 1G3,5.00,3.50,2112,4/19/2022
+1630000,1762 Davie St ,Apartment, Vancouver,BC,V6G 1W2,2.00,2.00,1580,3/11/2022
+1975000,2211 E 1st Ave,Single House, Vancouver,BC,V5N 1C1,6.00,5.00,2345,7/29/2022
+820000,428 W 8th Ave ,Apartment, Vancouver,BC,V5Y 1N9,1.00,1.50,784,5/17/2022
+2220000,2271 E 43rd Ave,Single House, Vancouver,BC,V5P 1M8,6.00,4.00,2505,2/15/2022
+3694000,1688 W 61st Ave,Single House, Vancouver,BC,V6P 2C3,4.00,5.00,3838,6/2/2022
+4250000,58 W 17th Ave,Single House, Vancouver,BC,V5Y 1Z4,6.00,4.50,3282,3/24/2022
+4410000,105 W 43rd Ave,Single House, Vancouver,BC,V5Y 2T6,8.00,6.50,4098,3/8/2022
+1450000,179 E 17th Ave,Single House, Vancouver,BC,V5V 1A5,2.00,2.50,1209,2/23/2022
+2400000,1275 Maple St,Single House, Vancouver,BC,V6J 3R8,4.00,2.00,1131,3/31/2022
+2850000,2045 E Broadway,Single House, Vancouver,BC,V5N 1W6,5.00,2.50,2588,12/1/2022
+7800000,2007 W 29th Ave,Single House, Vancouver,BC,V6J 2Z9,4.00,8.00,5906,11/29/2022
+2320000,996 E 20th Ave,Single House, Vancouver,BC,V5V 1N6,2.00,1.00,1773,6/28/2022
+2100000,499 Drake St ,Apartment, Vancouver,BC,V6B 1B1,2.00,2.50,1426,10/4/2022
+775000,1275 Hamilton St ,Apartment, Vancouver,BC,V6B 6K3,1.00,1.00,704,5/16/2022
+545000,63 Keefer Pl ,Apartment, Vancouver,BC,V6B 6N6,1.00,1.50,589,5/20/2022
+1669000,1243 Homer St,Single House, Vancouver,BC,V6B 2Y9,1.00,2.00,1323,4/27/2022
+4200000,181 Athletes Way ,Apartment, Vancouver,BC,V5Y 0E5,3.00,2.50,2395,11/29/2022
+678000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,731,2/18/2022
+600000,5555 Victoria Dr ,Apartment, Vancouver,BC,V5P 4Y3,2.00,2.00,824,7/11/2022
+480000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,520,2/24/2022
+705000,1887 Crowe St ,Apartment, Vancouver,BC,V5Y 0B4,1.00,1.00,607,6/30/2022
+500000,8770 Laurel St ,Apartment, Vancouver,BC,V6P 3V6,1.00,2.50,886,4/8/2022
+1430000,6856 Victoria Dr,Single House, Vancouver,BC,V5P 3Y5,5.00,2.00,1238,6/16/2022
+2300000,1855 Vine St ,Apartment, Vancouver,BC,V6K 3J8,2.00,1.50,1338,4/28/2022
+780000,2768 Cranberry Dr ,Apartment, Vancouver,BC,V6K 4V1,1.00,1.00,655,7/7/2022
+845000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,1.00,1.00,695,8/8/2022
+782000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,1.00,1.00,563,4/20/2022
+555000,2238 Kingsway ,Apartment, Vancouver,BC,V5N 2T7,2.00,2.00,784,2/15/2022
+620000,1611 E 3rd Ave ,Apartment, Vancouver,BC,V5N 1H1,1.00,1.00,690,5/4/2022
+705000,822 Seymour St ,Apartment, Vancouver,BC,V6B 1L7,2.00,2.50,741,8/4/2022
+1495000,1372 Seymour St ,Apartment, Vancouver,BC,V6B 3P3,2.00,2.50,982,4/8/2022
+4860000,19 Peveril Ave,Single House, Vancouver,BC,V5Y 2L2,5.00,5.00,3672,6/1/2022
+4650000,4431 Ontario St,Single House, Vancouver,BC,V5V 3H2,3.00,4.00,3299,6/24/2022
+549000,8988 Hudson St ,Apartment, Vancouver,BC,V6P 6Z1,1.00,1.00,615,3/9/2022
+1725000,4320 Nanaimo St,Single House, Vancouver,BC,V5R 5G9,3.00,2.00,1340,3/29/2022
+630000,1351 Continental St ,Apartment, Vancouver,BC,V6Z 0C6,1.00,1.00,513,3/4/2022
+2380000,1513 W 66th Ave,Single House, Vancouver,BC,V6P 2R8,4.00,3.50,2378,11/25/2022
+3538000,7061 Cypress St,Single House, Vancouver,BC,V6P 5M2,2.00,2.50,3673,4/13/2022
+1820000,4858 Beatrice St,Single House, Vancouver,BC,V5N 4J4,5.00,4.00,2026,6/29/2022
+1030000,928 Richards St ,Apartment, Vancouver,BC,V6B 3C1,2.00,2.50,752,9/20/2022
+3900000,1438 W 55th Ave,Single House, Vancouver,BC,V6P 1R5,7.00,3.50,3703,6/30/2022
+941400,2258 E 7th Ave,Single House, Vancouver,BC,V5N 1S7,5.00,3.50,2629,11/25/2022
+701000,909 Mainland St ,Apartment, Vancouver,BC,V6B 1S3,1.00,1.00,589,3/31/2022
+1113000,199 Drake St,Apartment, Vancouver,BC,V6Z 2Y8,2.00,2.00,1192,3/9/2022
+1600000,4514 Nanaimo St,Single House, Vancouver,BC,V5N 5J4,4.00,4.50,1640,11/7/2022
+520000,774 Great Northern Way ,Apartment, Vancouver,BC,V5T 1E1,1.00,1.00,614,8/12/2022
+1680000,3494 Franklin St,Single House, Vancouver,BC,V5K 1Y3,2.00,1.00,2104,10/27/2022
+1160000,2758 Dundas St,Single House, Vancouver,BC,V5K 1R2,1.00,1.00,1289,5/30/2022
+633000,570 E 8th Ave ,Apartment, Vancouver,BC,V5T 1S8,1.00,1.00,632,8/10/2022
+1017000,1081 W 8th Ave ,Apartment, Vancouver,BC,V6H 1C3,2.00,1.00,966,2/14/2022
+2350000,2115 E 13th Ave,Single House, Vancouver,BC,V5N 2C6,5.00,2.50,2100,4/28/2022
+800000,1445 Marpole Ave ,Apartment, Vancouver,BC,V6H 1S5,2.00,1.00,819,10/28/2022
+1925000,1199 Seymour St ,Apartment, Vancouver,BC,V6B 1K3,2.00,2.00,1238,3/15/2022
+529200,989 Beatty St ,Apartment, Vancouver,BC,V6Z 3C2,1.00,1.00,482,9/14/2022
+1185000,1228 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W4,2.00,2.00,964,5/2/2022
+2275000,2826 Wall St,Single House, Vancouver,BC,V5K 1B2,2.00,1.00,920,5/2/2022
+750000,1225 Richards St ,Apartment, Vancouver,BC,V6B 1E6,1.00,1.00,592,6/15/2022
+1630000,2540 Triumph St,Single House, Vancouver,BC,V5K 1S8,5.00,2.00,2805,5/31/2022
+950000,3611 W 18th Ave ,Apartment, Vancouver,BC,V6S 1B3,2.00,2.00,788,2/24/2022
+1800000,2630 Eton St,Single House, Vancouver,BC,V5K 1K1,3.00,1.00,1953,7/20/2022
+740000,350 E 5th Ave ,Apartment, Vancouver,BC,V5T 1H4,1.00,1.00,545,6/29/2022
+550000,588 E 5th Ave ,Apartment, Vancouver,BC,V5T 4H6,1.00,1.00,673,5/9/2022
+2385000,3907 Dunbar St,Single House, Vancouver,BC,V6S 2E3,4.00,2.00,2075,2/15/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1244,4/26/2022
+885000,501 Pacific St ,Apartment, Vancouver,BC,V6Z 2X6,1.00,1.00,777,6/21/2022
+3600000,426 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E9,2.00,2.50,1837,5/2/2022
+3425000,1288 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W5,4.00,4.00,2035,7/7/2022
+1720000,3510 William St,Single House, Vancouver,BC,V5K 2Z7,5.00,2.00,1500,5/30/2022
+1900000,1067 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2Z5,3.00,2.00,1286,5/31/2022
+1050000,72 E 15th Ave,Single House, Vancouver,BC,V5T 2P4,2.00,2.50,1214,11/22/2022
+950000,838 W Hastings St ,Apartment, Vancouver,BC,V6C 0A6,2.00,1.00,802,4/8/2022
+4000000,2840 W 1st Ave,Single House, Vancouver,BC,V6K 1H4,2.00,2.50,2318,3/15/2022
+785000,489 Interurban Wy ,Apartment, Vancouver,BC,V5X 0C7,2.00,2.00,795,4/1/2022
+1860000,2616 Napier St,Single House, Vancouver,BC,V5K 2W6,4.00,1.50,2107,6/1/2022
+471000,688 E 56th Ave ,Apartment, Vancouver,BC,V5X 3V6,1.00,1.00,645,2/18/2022
+598000,950 Drake St ,Apartment, Vancouver,BC,V6Z 2B9,1.00,1.00,622,6/3/2022
+1218000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,2.00,2.50,911,11/9/2022
+4995000,4772 Narvaez Dr,Single House, Vancouver,BC,V6L 2J2,3.00,2.50,3078,9/6/2022
+1635000,488 E 16th Ave,Single House, Vancouver,BC,V5T 2T9,5.00,3.00,1866,3/17/2022
+490000,2288 W Broadway ,Apartment, Vancouver,BC,V6K 3L1,1.00,1.00,526,9/8/2022
+2650000,1501 Howe St,Apartment, Vancouver,BC,V6Z 2P8,4.00,1.50,1942,4/29/2022
+7206000,5941 Chancellor Blvd,Single House, Vancouver,BC,V6T 1E6,4.00,3.50,4691,10/14/2022
+11900000,4262 Carnarvon St,Single House, Vancouver,BC,V6L 2S2,5.00,4.50,5058,7/13/2022
+845000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,821,11/21/2022
+990000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,859,5/30/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1142,2/15/2022
+1705000,1066 E 54th Ave,Single House, Vancouver,BC,V5X 1L7,5.00,2.50,2364,2/18/2022
+2080000,1201 W 7th Ave,Single House, Vancouver,BC,V6H 1B7,3.00,2.00,1681,3/29/2022
+685080,2101 McMullen Ave ,Apartment, Vancouver,BC,V6L 3B4,1.00,1.00,910,4/5/2022
+950000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,1.00,1.00,719,6/28/2022
+1926000,283 W 63rd Ave,Single House, Vancouver,BC,V5X 2H9,7.00,3.00,2108,10/13/2022
+4831000,2393 McBain Ave,Single House, Vancouver,BC,V6L 2C5,4.00,6.00,3894,12/5/2022
+1522000,2328 Windsor St,Single House, Vancouver,BC,V5T 3Z5,3.00,2.50,1150,5/6/2022
+1890000,583 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E6,2.00,2.00,1150,7/15/2022
+1530000,1408 Strathmore Mews ,Apartment, Vancouver,BC,V6Z 3B1,2.00,2.00,1060,4/28/2022
+605000,789 Drake St ,Apartment, Vancouver,BC,V6Z 2N7,2.00,2.00,689,3/31/2022
+3500000,416 E 63rd Ave,Single House, Vancouver,BC,V5X 2K2,8.00,6.50,3403,9/12/2022
+1200000,1160 Burrard St ,Apartment, Vancouver,BC,V6Z 2E8,2.00,1.50,1121,4/4/2022
+1070000,2688 Watson St ,Apartment, Vancouver,BC,V5T 4T6,2.00,1.00,952,3/4/2022
+3300000,3122 W 16th Ave,Single House, Vancouver,BC,V6K 3E1,2.00,1.00,1968,3/2/2022
+2625000,536 E 8th Ave,Single House, Vancouver,BC,V5T 1S8,3.00,1.00,1100,5/27/2022
+1500000,549 E 7th Ave,Single House, Vancouver,BC,V5T 1N8,2.00,2.00,1226,9/20/2022
+1078750,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,863,6/30/2022
+875000,2083 W 33rd Ave ,Apartment, Vancouver,BC,V6M 4M6,2.00,2.50,815,3/16/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+1825000,5890 Balsam St ,Apartment, Vancouver,BC,V6M 4B9,3.00,2.50,1586,2/23/2022
+820000,2103 W 45th Ave ,Apartment, Vancouver,BC,V6M 3X3,2.00,2.50,859,11/15/2022
+3500000,2129 W 35th Ave,Single House, Vancouver,BC,V6M 1J2,5.00,6.00,3523,3/31/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+587000,5770 Oak St ,Apartment, Vancouver,BC,V6M 2V9,1.00,1.00,742,7/4/2022
+932500,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,778,6/30/2022
+1024600,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,759,2/28/2022
+4525000,2136 W 48th Ave,Single House, Vancouver,BC,V6M 2P5,4.00,2.00,3223,8/16/2022
+2375000,2242 W 49th Ave,Single House, Vancouver,BC,V6M 2T9,4.00,2.00,1934,5/16/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+1220000,522 W 8th Ave ,Apartment, Vancouver,BC,V5Z 0A9,2.00,2.50,1016,8/15/2022
+1100000,503 W 16th Ave ,Apartment, Vancouver,BC,V5Z 4N3,2.00,1.00,1466,7/29/2022
+1406500,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,2.00,2.00,1166,8/11/2022
+540000,2333 Triumph St ,Apartment, Vancouver,BC,V5L 1L4,1.00,1.00,649,3/1/2022
+670000,925 W 10th Ave ,Apartment, Vancouver,BC,V5Z 1L9,1.00,1.00,657,2/22/2022
+1100000,788 W 14th Ave ,Apartment, Vancouver,BC,V5Z 1P9,2.00,2.00,1157,7/20/2022
+925000,980 W 21st Ave ,Apartment, Vancouver,BC,V5Z 1Z1,2.00,2.50,988,11/15/2022
+1560000,1133 Templeton Dr,Single House, Vancouver,BC,V5L 2N9,2.00,2.50,1177,2/24/2022
+575000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,663,5/24/2022
+4900000,1967 Napier St,Single House, Vancouver,BC,V5L 2N6,8.00,2.00,5038,7/29/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+630000,1484 Charles St ,Apartment, Vancouver,BC,V5L 2S8,1.00,1.00,585,8/29/2022
+2800000,2081 Napier St,Single House, Vancouver,BC,V5L 2N8,6.00,3.00,2814,4/21/2022
+1500000,549 E 7th Ave,Single House, Vancouver,BC,V5T 1N8,2.00,2.00,1226,9/20/2022
+1985000,938 E 10th Ave,Single House, Vancouver,BC,V5T 2B2,4.00,2.00,1634,5/2/2022
+875000,2083 W 33rd Ave ,Apartment, Vancouver,BC,V6M 4M6,2.00,2.50,815,3/16/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+3918000,1260 W 38th Ave,Single House, Vancouver,BC,V6M 1R1,4.00,2.50,3832,11/30/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+2006000,2071 W 42nd Ave ,Apartment, Vancouver,BC,V6M 2B4,3.00,2.00,1821,11/21/2022
+4525000,2136 W 48th Ave,Single House, Vancouver,BC,V6M 2P5,4.00,2.00,3223,8/16/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+888000,688 W 12th Ave,Apartment, Vancouver,BC,V5Z 1M8,2.00,1.00,905,5/30/2022
+1220000,522 W 8th Ave ,Apartment, Vancouver,BC,V5Z 0A9,2.00,2.50,1016,8/15/2022
+882000,976 W 16th Ave,Single House, Vancouver,BC,V5Z 1T2,2.00,1.00,706,5/3/2022
+1863000,626 W 26th Ave,Single House, Vancouver,BC,V5Z 4H6,3.00,3.50,1756,9/6/2022
+700000,997 W 22nd Ave ,Apartment, Vancouver,BC,V5Z 2A2,1.00,1.00,598,6/30/2022
+925000,980 W 21st Ave ,Apartment, Vancouver,BC,V5Z 1Z1,2.00,2.50,988,11/15/2022
+1560000,1133 Templeton Dr,Single House, Vancouver,BC,V5L 2N9,2.00,2.50,1177,2/24/2022
+4900000,1967 Napier St,Single House, Vancouver,BC,V5L 2N6,8.00,2.00,5038,7/29/2022
+630000,1484 Charles St ,Apartment, Vancouver,BC,V5L 2S8,1.00,1.00,585,8/29/2022
+2070000,3158 E 52nd Ave,Single House, Vancouver,BC,V5S 1T8,4.00,3.50,2254,7/7/2022
+1835000,2239 W 7th Ave ,Apartment, Vancouver,BC,V6K 1Y3,3.00,2.50,1301,7/12/2022
+690000,2033 W 10th Ave ,Apartment, Vancouver,BC,V6J 0H1,1.00,1.00,587,11/25/2022
+1060000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,1.50,1018,4/20/2022
+1010000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,2.50,931,2/24/2022
+515000,8031 Nunavut Lane ,Apartment, Vancouver,BC,V5X 0C9,1.00,1.00,453,4/13/2022
+823000,1688 Pullman Porter St ,Apartment, Vancouver,BC,V6A 0H3,1.00,1.50,674,2/18/2022
+500000,707 E 43rd Ave ,Apartment, Vancouver,BC,V5W 0C1,1.00,1.00,612,6/30/2022
+2900000,1179 E 54th Ave,Single House, Vancouver,BC,V5X 1M1,3.00,2.00,2377,4/6/2022
+2525000,3896 Slocan St,Single House, Vancouver,BC,V5R 1Y5,7.00,3.50,2325,6/27/2022
+2898000,1925 Alberni St ,Apartment, Vancouver,BC,V6G 0A3,2.00,2.50,1628,6/13/2022
+3243000,5741 Rhodes St,Single House, Vancouver,BC,V5R 3P3,6.00,6.50,3152,5/31/2022
+520000,3660 Vanness Ave ,Apartment, Vancouver,BC,V5R 6H8,1.00,1.00,583,3/10/2022
+550000,3480 Yardley Ave ,Apartment, Vancouver,BC,V5R,2.00,1.00,759,8/31/2022
+704000,5663 Senlac St,Single House, Vancouver,BC,V5R 6G8,3.00,2.50,1400,3/29/2022
+2180000,5636 Killarney St,Single House, Vancouver,BC,V5R 3W2,3.00,1.50,2492,4/29/2022
+1850000,3338 Austrey Ave,Single House, Vancouver,BC,V5R 4V9,2.00,3.00,1977,6/29/2022
+1560000,5114 Fairmont St,Single House, Vancouver,BC,V5R 3V3,5.00,2.00,2168,3/30/2022
+1555000,5025 Earles St,Single House, Vancouver,BC,V5R 3R8,4.00,2.00,1957,2/28/2022
+985000,150 Alexander St ,Apartment, Vancouver,BC,V6A 1B5,1.00,1.00,958,8/25/2022
+1598000,1088 Quebec St ,Apartment, Vancouver,BC,V6A 4H2,3.00,2.00,1443,3/17/2022
+924000,110 Switchmen St ,Apartment, Vancouver,BC,V6A 0C6,2.00,2.50,853,11/14/2022
+2225000,1205 W Hastings St ,Apartment, Vancouver,BC,V6E 4T7,2.00,2.00,1277,6/8/2022
+1850000,1277 Melville St ,Apartment, Vancouver,BC,V6E 0A4,2.00,2.00,1431,9/6/2022
+1000000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,2.00,2.50,943,5/11/2022
+575000,921 Thurlow St ,Apartment, Vancouver,BC,V6E 1W3,1.00,1.00,599,5/31/2022
+950000,1238 Melville St ,Apartment, Vancouver,BC,V6E 4N2,2.00,2.50,946,5/31/2022
+728000,1277 Nelson St ,Apartment, Vancouver,BC,V6E 4M8,1.00,1.00,736,8/12/2022
+625000,1725 Pendrell St ,Apartment, Vancouver,BC,V6G 2X7,1.00,1.00,668,11/4/2022
+1285000,1406 Harwood St ,Apartment, Vancouver,BC,V6G 1X5,2.00,1.00,929,7/29/2022
+1069000,1288 Alberni St ,Apartment, Vancouver,BC,V6E 4N5,2.00,2.50,908,9/13/2022
+2006000,1789 Davie St ,Apartment, Vancouver,BC,V6G 1W5,2.00,2.50,1430,10/11/2022
+664500,1688 Robson St ,Apartment, Vancouver,BC,V6G 1C7,1.00,1.00,539,6/1/2022
+820000,1200 Alberni St ,Apartment, Vancouver,BC,V6E 1A6,2.00,2.50,888,11/4/2022
+6300000,4538 Langara Ave,Single House, Vancouver,BC,V6R 1C8,3.00,5.50,4088,4/18/2022
+2694000,4218 W 13th Ave,Single House, Vancouver,BC,V6R 2T8,4.00,3.50,2879,11/12/2022
+540000,1967 Barclay St ,Apartment, Vancouver,BC,V6G 1L1,1.00,1.00,549,10/27/2022
+1200000,2681 E 18th Ave,Single House, Vancouver,BC,V5M 2P6,1.00,1.00,566,3/24/2022
+3588000,3311 W 7th Ave,Single House, Vancouver,BC,V6R 1V9,6.00,4.00,2982,6/23/2022
+8000000,4627 Bellevue Dr,Single House, Vancouver,BC,V6R 1E7,3.00,1.50,3490,4/28/2022
+1378000,1867 W 3rd Ave ,Apartment, Vancouver,BC,V6J 1K9,3.00,2.00,1386,11/10/2022
+752000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,1.00,1.00,668,3/30/2022
+1250000,209 E 39th Ave,Single House, Vancouver,BC,V5W 1K1,2.00,1.00,1782,3/25/2022
+665000,1331 W Georgia St ,Apartment, Vancouver,BC,V6E 4P1,1.00,1.00,556,5/10/2022
+1015000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,2.00,2.00,872,5/30/2022
+850000,4625 Valley Dr ,Apartment, Vancouver,BC,V6J 5L7,1.00,1.00,804,3/30/2022
+2068000,2890 E 16th Ave,Single House, Vancouver,BC,V5M 2M1,4.00,3.50,2366,8/31/2022
+600000,977 Mainland St ,Apartment, Vancouver,BC,V6B 1T2,1.00,1.00,537,11/30/2022
+1335000,1650 W 1st Ave ,Apartment, Vancouver,BC,V6J 1G1,2.00,2.50,875,5/16/2022
+1100000,33 Smithe St ,Apartment, Vancouver,BC,V6B 0B5,2.00,2.00,918,3/24/2022
+1750000,3378 Seaforth Dr,Single House, Vancouver,BC,V5M 4C5,3.00,1.00,1282,6/1/2022
+735000,1420 W Georgia St ,Apartment, Vancouver,BC,V6G 3K4,1.00,1.00,681,4/28/2022
+920000,555 Jervis St ,Apartment, Vancouver,BC,V6E 4N1,1.00,1.00,667,6/15/2022
+1435000,1389 E 39th Ave,Single House, Vancouver,BC,V5P 2X9,2.00,1.50,1490,6/29/2022
+975000,5868 Fraser St ,Apartment, Vancouver,BC,V5W 2Z5,2.00,1.50,1076,9/1/2022
+4900000,1656 Nanton Ave,Single House, Vancouver,BC,V6J 2X4,4.00,4.00,4039,6/1/2022
+1225777,3468 Porter St,Single House, Vancouver,BC,V5N 4E9,2.00,2.50,1193,6/16/2022
+658000,438 Seymour St ,Apartment, Vancouver,BC,V6B 6H4,1.00,1.00,560,5/30/2022
+1400000,5138 Fraser St,Single House, Vancouver,BC,V5W 2Y9,3.00,1.50,949,4/29/2022
+767000,6363 Main St,Single House, Vancouver,BC,V5W 2V2,6.00,4.00,1918,11/14/2022
+1715000,3059 E 1st Ave,Single House, Vancouver,BC,V5M 1B3,4.00,2.00,1550,3/14/2022
+625000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,647,8/2/2022
+1280000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,3/4/2022
+1190000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,8/10/2022
+775000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,649,3/30/2022
+460000,4372 Fraser St ,Apartment, Vancouver,BC,V5V 4G3,1.00,1.50,478,6/20/2022
+675000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,509,9/2/2022
+1220000,1490 Pennyfarthing Dr,Apartment, Vancouver,BC,V6J 4X8,2.00,2.50,1497,11/30/2022
+1840000,8380 Beatrice St,Single House, Vancouver,BC,V5P 3R9,3.00,2.00,1760,4/25/2022
+1800000,2091 E 20th Ave,Single House, Vancouver,BC,V5N 2L1,4.00,2.00,2088,4/12/2022
+930000,1635 W 3rd Ave ,Apartment, Vancouver,BC,V6J 0B6,2.00,2.50,800,10/27/2022
+2250000,1421 E 62nd Ave,Single House, Vancouver,BC,V5P 2K6,4.00,2.00,1843,5/20/2022
+597000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,572,10/28/2022
+2980000,1348 E 24th Ave,Single House, Vancouver,BC,V5V 2B7,6.00,4.50,2878,4/5/2022
+1820000,518 E 18th Ave,Single House, Vancouver,BC,V5V 1G3,5.00,3.50,2112,4/19/2022
+1630000,1762 Davie St ,Apartment, Vancouver,BC,V6G 1W2,2.00,2.00,1580,3/11/2022
+1975000,2211 E 1st Ave,Single House, Vancouver,BC,V5N 1C1,6.00,5.00,2345,7/29/2022
+820000,428 W 8th Ave ,Apartment, Vancouver,BC,V5Y 1N9,1.00,1.50,784,5/17/2022
+2220000,2271 E 43rd Ave,Single House, Vancouver,BC,V5P 1M8,6.00,4.00,2505,2/15/2022
+3694000,1688 W 61st Ave,Single House, Vancouver,BC,V6P 2C3,4.00,5.00,3838,6/2/2022
+4250000,58 W 17th Ave,Single House, Vancouver,BC,V5Y 1Z4,6.00,4.50,3282,3/24/2022
+4410000,105 W 43rd Ave,Single House, Vancouver,BC,V5Y 2T6,8.00,6.50,4098,3/8/2022
+1450000,179 E 17th Ave,Single House, Vancouver,BC,V5V 1A5,2.00,2.50,1209,2/23/2022
+2400000,1275 Maple St,Single House, Vancouver,BC,V6J 3R8,4.00,2.00,1131,3/31/2022
+2850000,2045 E Broadway,Single House, Vancouver,BC,V5N 1W6,5.00,2.50,2588,12/1/2022
+7800000,2007 W 29th Ave,Single House, Vancouver,BC,V6J 2Z9,4.00,8.00,5906,11/29/2022
+2320000,996 E 20th Ave,Single House, Vancouver,BC,V5V 1N6,2.00,1.00,1773,6/28/2022
+2100000,499 Drake St ,Apartment, Vancouver,BC,V6B 1B1,2.00,2.50,1426,10/4/2022
+775000,1275 Hamilton St ,Apartment, Vancouver,BC,V6B 6K3,1.00,1.00,704,5/16/2022
+545000,63 Keefer Pl ,Apartment, Vancouver,BC,V6B 6N6,1.00,1.50,589,5/20/2022
+1669000,1243 Homer St,Single House, Vancouver,BC,V6B 2Y9,1.00,2.00,1323,4/27/2022
+4200000,181 Athletes Way ,Apartment, Vancouver,BC,V5Y 0E5,3.00,2.50,2395,11/29/2022
+678000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,731,2/18/2022
+600000,5555 Victoria Dr ,Apartment, Vancouver,BC,V5P 4Y3,2.00,2.00,824,7/11/2022
+480000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,520,2/24/2022
+705000,1887 Crowe St ,Apartment, Vancouver,BC,V5Y 0B4,1.00,1.00,607,6/30/2022
+500000,8770 Laurel St ,Apartment, Vancouver,BC,V6P 3V6,1.00,2.50,886,4/8/2022
+1430000,6856 Victoria Dr,Single House, Vancouver,BC,V5P 3Y5,5.00,2.00,1238,6/16/2022
+2300000,1855 Vine St ,Apartment, Vancouver,BC,V6K 3J8,2.00,1.50,1338,4/28/2022
+780000,2768 Cranberry Dr ,Apartment, Vancouver,BC,V6K 4V1,1.00,1.00,655,7/7/2022
+845000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,1.00,1.00,695,8/8/2022
+782000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,1.00,1.00,563,4/20/2022
+555000,2238 Kingsway ,Apartment, Vancouver,BC,V5N 2T7,2.00,2.00,784,2/15/2022
+620000,1611 E 3rd Ave ,Apartment, Vancouver,BC,V5N 1H1,1.00,1.00,690,5/4/2022
+705000,822 Seymour St ,Apartment, Vancouver,BC,V6B 1L7,2.00,2.50,741,8/4/2022
+1495000,1372 Seymour St ,Apartment, Vancouver,BC,V6B 3P3,2.00,2.50,982,4/8/2022
+4860000,19 Peveril Ave,Single House, Vancouver,BC,V5Y 2L2,5.00,5.00,3672,6/1/2022
+4650000,4431 Ontario St,Single House, Vancouver,BC,V5V 3H2,3.00,4.00,3299,6/24/2022
+549000,8988 Hudson St ,Apartment, Vancouver,BC,V6P 6Z1,1.00,1.00,615,3/9/2022
+1725000,4320 Nanaimo St,Single House, Vancouver,BC,V5R 5G9,3.00,2.00,1340,3/29/2022
+630000,1351 Continental St ,Apartment, Vancouver,BC,V6Z 0C6,1.00,1.00,513,3/4/2022
+2380000,1513 W 66th Ave,Single House, Vancouver,BC,V6P 2R8,4.00,3.50,2378,11/25/2022
+3538000,7061 Cypress St,Single House, Vancouver,BC,V6P 5M2,2.00,2.50,3673,4/13/2022
+1820000,4858 Beatrice St,Single House, Vancouver,BC,V5N 4J4,5.00,4.00,2026,6/29/2022
+1030000,928 Richards St ,Apartment, Vancouver,BC,V6B 3C1,2.00,2.50,752,9/20/2022
+3900000,1438 W 55th Ave,Single House, Vancouver,BC,V6P 1R5,7.00,3.50,3703,6/30/2022
+941400,2258 E 7th Ave,Single House, Vancouver,BC,V5N 1S7,5.00,3.50,2629,11/25/2022
+701000,909 Mainland St ,Apartment, Vancouver,BC,V6B 1S3,1.00,1.00,589,3/31/2022
+1113000,199 Drake St,Apartment, Vancouver,BC,V6Z 2Y8,2.00,2.00,1192,3/9/2022
+1600000,4514 Nanaimo St,Single House, Vancouver,BC,V5N 5J4,4.00,4.50,1640,11/7/2022
+520000,774 Great Northern Way ,Apartment, Vancouver,BC,V5T 1E1,1.00,1.00,614,8/12/2022
+1680000,3494 Franklin St,Single House, Vancouver,BC,V5K 1Y3,2.00,1.00,2104,10/27/2022
+1160000,2758 Dundas St,Single House, Vancouver,BC,V5K 1R2,1.00,1.00,1289,5/30/2022
+633000,570 E 8th Ave ,Apartment, Vancouver,BC,V5T 1S8,1.00,1.00,632,8/10/2022
+1017000,1081 W 8th Ave ,Apartment, Vancouver,BC,V6H 1C3,2.00,1.00,966,2/14/2022
+2350000,2115 E 13th Ave,Single House, Vancouver,BC,V5N 2C6,5.00,2.50,2100,4/28/2022
+800000,1445 Marpole Ave ,Apartment, Vancouver,BC,V6H 1S5,2.00,1.00,819,10/28/2022
+1925000,1199 Seymour St ,Apartment, Vancouver,BC,V6B 1K3,2.00,2.00,1238,3/15/2022
+529200,989 Beatty St ,Apartment, Vancouver,BC,V6Z 3C2,1.00,1.00,482,9/14/2022
+1185000,1228 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W4,2.00,2.00,964,5/2/2022
+2275000,2826 Wall St,Single House, Vancouver,BC,V5K 1B2,2.00,1.00,920,5/2/2022
+750000,1225 Richards St ,Apartment, Vancouver,BC,V6B 1E6,1.00,1.00,592,6/15/2022
+1630000,2540 Triumph St,Single House, Vancouver,BC,V5K 1S8,5.00,2.00,2805,5/31/2022
+950000,3611 W 18th Ave ,Apartment, Vancouver,BC,V6S 1B3,2.00,2.00,788,2/24/2022
+1800000,2630 Eton St,Single House, Vancouver,BC,V5K 1K1,3.00,1.00,1953,7/20/2022
+740000,350 E 5th Ave ,Apartment, Vancouver,BC,V5T 1H4,1.00,1.00,545,6/29/2022
+550000,588 E 5th Ave ,Apartment, Vancouver,BC,V5T 4H6,1.00,1.00,673,5/9/2022
+2385000,3907 Dunbar St,Single House, Vancouver,BC,V6S 2E3,4.00,2.00,2075,2/15/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1244,4/26/2022
+885000,501 Pacific St ,Apartment, Vancouver,BC,V6Z 2X6,1.00,1.00,777,6/21/2022
+3600000,426 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E9,2.00,2.50,1837,5/2/2022
+3425000,1288 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W5,4.00,4.00,2035,7/7/2022
+1720000,3510 William St,Single House, Vancouver,BC,V5K 2Z7,5.00,2.00,1500,5/30/2022
+1900000,1067 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2Z5,3.00,2.00,1286,5/31/2022
+1050000,72 E 15th Ave,Single House, Vancouver,BC,V5T 2P4,2.00,2.50,1214,11/22/2022
+950000,838 W Hastings St ,Apartment, Vancouver,BC,V6C 0A6,2.00,1.00,802,4/8/2022
+4000000,2840 W 1st Ave,Single House, Vancouver,BC,V6K 1H4,2.00,2.50,2318,3/15/2022
+785000,489 Interurban Wy ,Apartment, Vancouver,BC,V5X 0C7,2.00,2.00,795,4/1/2022
+1860000,2616 Napier St,Single House, Vancouver,BC,V5K 2W6,4.00,1.50,2107,6/1/2022
+471000,688 E 56th Ave ,Apartment, Vancouver,BC,V5X 3V6,1.00,1.00,645,2/18/2022
+598000,950 Drake St ,Apartment, Vancouver,BC,V6Z 2B9,1.00,1.00,622,6/3/2022
+1218000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,2.00,2.50,911,11/9/2022
+4995000,4772 Narvaez Dr,Single House, Vancouver,BC,V6L 2J2,3.00,2.50,3078,9/6/2022
+1635000,488 E 16th Ave,Single House, Vancouver,BC,V5T 2T9,5.00,3.00,1866,3/17/2022
+490000,2288 W Broadway ,Apartment, Vancouver,BC,V6K 3L1,1.00,1.00,526,9/8/2022
+2650000,1501 Howe St,Apartment, Vancouver,BC,V6Z 2P8,4.00,1.50,1942,4/29/2022
+7206000,5941 Chancellor Blvd,Single House, Vancouver,BC,V6T 1E6,4.00,3.50,4691,10/14/2022
+11900000,4262 Carnarvon St,Single House, Vancouver,BC,V6L 2S2,5.00,4.50,5058,7/13/2022
+845000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,821,11/21/2022
+990000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,859,5/30/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1142,2/15/2022
+1705000,1066 E 54th Ave,Single House, Vancouver,BC,V5X 1L7,5.00,2.50,2364,2/18/2022
+2080000,1201 W 7th Ave,Single House, Vancouver,BC,V6H 1B7,3.00,2.00,1681,3/29/2022
+685080,2101 McMullen Ave ,Apartment, Vancouver,BC,V6L 3B4,1.00,1.00,910,4/5/2022
+950000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,1.00,1.00,719,6/28/2022
+1926000,283 W 63rd Ave,Single House, Vancouver,BC,V5X 2H9,7.00,3.00,2108,10/13/2022
+4831000,2393 McBain Ave,Single House, Vancouver,BC,V6L 2C5,4.00,6.00,3894,12/5/2022
+1522000,2328 Windsor St,Single House, Vancouver,BC,V5T 3Z5,3.00,2.50,1150,5/6/2022
+1890000,583 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E6,2.00,2.00,1150,7/15/2022
+1530000,1408 Strathmore Mews ,Apartment, Vancouver,BC,V6Z 3B1,2.00,2.00,1060,4/28/2022
+605000,789 Drake St ,Apartment, Vancouver,BC,V6Z 2N7,2.00,2.00,689,3/31/2022
+3500000,416 E 63rd Ave,Single House, Vancouver,BC,V5X 2K2,8.00,6.50,3403,9/12/2022
+1200000,1160 Burrard St ,Apartment, Vancouver,BC,V6Z 2E8,2.00,1.50,1121,4/4/2022
+1070000,2688 Watson St ,Apartment, Vancouver,BC,V5T 4T6,2.00,1.00,952,3/4/2022
+3300000,3122 W 16th Ave,Single House, Vancouver,BC,V6K 3E1,2.00,1.00,1968,3/2/2022
+2625000,536 E 8th Ave,Single House, Vancouver,BC,V5T 1S8,3.00,1.00,1100,5/27/2022
+1500000,549 E 7th Ave,Single House, Vancouver,BC,V5T 1N8,2.00,2.00,1226,9/20/2022
+1078750,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,863,6/30/2022
+875000,2083 W 33rd Ave ,Apartment, Vancouver,BC,V6M 4M6,2.00,2.50,815,3/16/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+1825000,5890 Balsam St ,Apartment, Vancouver,BC,V6M 4B9,3.00,2.50,1586,2/23/2022
+820000,2103 W 45th Ave ,Apartment, Vancouver,BC,V6M 3X3,2.00,2.50,859,11/15/2022
+3500000,2129 W 35th Ave,Single House, Vancouver,BC,V6M 1J2,5.00,6.00,3523,3/31/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+587000,5770 Oak St ,Apartment, Vancouver,BC,V6M 2V9,1.00,1.00,742,7/4/2022
+932500,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,778,6/30/2022
+1024600,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,759,2/28/2022
+4525000,2136 W 48th Ave,Single House, Vancouver,BC,V6M 2P5,4.00,2.00,3223,8/16/2022
+2375000,2242 W 49th Ave,Single House, Vancouver,BC,V6M 2T9,4.00,2.00,1934,5/16/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+1220000,522 W 8th Ave ,Apartment, Vancouver,BC,V5Z 0A9,2.00,2.50,1016,8/15/2022
+1100000,503 W 16th Ave ,Apartment, Vancouver,BC,V5Z 4N3,2.00,1.00,1466,7/29/2022
+1406500,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,2.00,2.00,1166,8/11/2022
+540000,2333 Triumph St ,Apartment, Vancouver,BC,V5L 1L4,1.00,1.00,649,3/1/2022
+670000,925 W 10th Ave ,Apartment, Vancouver,BC,V5Z 1L9,1.00,1.00,657,2/22/2022
+1100000,788 W 14th Ave ,Apartment, Vancouver,BC,V5Z 1P9,2.00,2.00,1157,7/20/2022
+925000,980 W 21st Ave ,Apartment, Vancouver,BC,V5Z 1Z1,2.00,2.50,988,11/15/2022
+1560000,1133 Templeton Dr,Single House, Vancouver,BC,V5L 2N9,2.00,2.50,1177,2/24/2022
+575000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,663,5/24/2022
+4900000,1967 Napier St,Single House, Vancouver,BC,V5L 2N6,8.00,2.00,5038,7/29/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+630000,1484 Charles St ,Apartment, Vancouver,BC,V5L 2S8,1.00,1.00,585,8/29/2022
+2800000,2081 Napier St,Single House, Vancouver,BC,V5L 2N8,6.00,3.00,2814,4/21/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+820000,2103 W 45th Ave ,Apartment, Vancouver,BC,V6M 3X3,2.00,2.50,859,11/15/2022
+3918000,1260 W 38th Ave,Single House, Vancouver,BC,V6M 1R1,4.00,2.50,3832,11/30/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+932500,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,778,6/30/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+750000,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,1.00,1.00,707,10/31/2022
+1863000,626 W 26th Ave,Single House, Vancouver,BC,V5Z 4H6,3.00,3.50,1756,9/6/2022
+700000,997 W 22nd Ave ,Apartment, Vancouver,BC,V5Z 2A2,1.00,1.00,598,6/30/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+2070000,3158 E 52nd Ave,Single House, Vancouver,BC,V5S 1T8,4.00,3.50,2254,7/7/2022
+1835000,2239 W 7th Ave ,Apartment, Vancouver,BC,V6K 1Y3,3.00,2.50,1301,7/12/2022
+5500000,6855 Cypress St,Single House, Vancouver,BC,V6P 5L9,5.00,2.50,2705,4/28/2022
+1060000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,1.50,1018,4/20/2022
+1010000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,2.50,931,2/24/2022
+515000,8031 Nunavut Lane ,Apartment, Vancouver,BC,V5X 0C9,1.00,1.00,453,4/13/2022
+823000,1688 Pullman Porter St ,Apartment, Vancouver,BC,V6A 0H3,1.00,1.50,674,2/18/2022
+1139000,2250 Commercial Dr ,Apartment, Vancouver,BC,V5N 4B5,2.00,1.50,964,3/24/2022
+500000,707 E 43rd Ave ,Apartment, Vancouver,BC,V5W 0C1,1.00,1.00,612,6/30/2022
+825600,6665 Main St ,Apartment, Vancouver,BC,V5X 3H3,2.00,2.50,1115,3/31/2022
+597000,488 SW Marine Dr ,Apartment, Vancouver,BC,V5X 0C7,1.00,1.00,497,6/22/2022
+880000,3263 Pierview Cres ,Apartment, Vancouver,BC,V5S 0C3,2.00,2.50,926,4/4/2022
+2525000,3896 Slocan St,Single House, Vancouver,BC,V5R 1Y5,7.00,3.50,2325,6/27/2022
+575800,204-53 W Hastings St ,Apartment, Vancouver,BC,V6B 1G4,2.00,1.00,797,4/29/2022
+608000,188 Keefer St ,Apartment, Vancouver,BC,V6A 1X4,1.00,1.00,520,10/31/2022
+1388888,1925 Alberni St ,Apartment, Vancouver,BC,V6G 0A3,2.00,2.50,1038,11/22/2022
+603000,1009 Harwood St ,Apartment, Vancouver,BC,V6Z 0C2,1.00,1.00,479,5/6/2022
+1500000,1488 W Hastings St,Single House, Vancouver,BC,V6E 3X2,3.00,2.50,1308,5/2/2022
+3243000,5741 Rhodes St,Single House, Vancouver,BC,V5R 3P3,6.00,6.50,3152,5/31/2022
+520000,3660 Vanness Ave ,Apartment, Vancouver,BC,V5R 6H8,1.00,1.00,583,3/10/2022
+550000,3480 Yardley Ave ,Apartment, Vancouver,BC,V5R,2.00,1.00,759,8/31/2022
+704000,5663 Senlac St,Single House, Vancouver,BC,V5R 6G8,3.00,2.50,1400,3/29/2022
+2180000,5636 Killarney St,Single House, Vancouver,BC,V5R 3W2,3.00,1.50,2492,4/29/2022
+1850000,3338 Austrey Ave,Single House, Vancouver,BC,V5R 4V9,2.00,3.00,1977,6/29/2022
+1560000,5114 Fairmont St,Single House, Vancouver,BC,V5R 3V3,5.00,2.00,2168,3/30/2022
+1555000,5025 Earles St,Single House, Vancouver,BC,V5R 3R8,4.00,2.00,1957,2/28/2022
+985000,150 Alexander St ,Apartment, Vancouver,BC,V6A 1B5,1.00,1.00,958,8/25/2022
+1598000,1088 Quebec St ,Apartment, Vancouver,BC,V6A 4H2,3.00,2.00,1443,3/17/2022
+924000,110 Switchmen St ,Apartment, Vancouver,BC,V6A 0C6,2.00,2.50,853,11/14/2022
+2225000,1205 W Hastings St ,Apartment, Vancouver,BC,V6E 4T7,2.00,2.00,1277,6/8/2022
+1850000,1277 Melville St ,Apartment, Vancouver,BC,V6E 0A4,2.00,2.00,1431,9/6/2022
+1000000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,2.00,2.50,943,5/11/2022
+575000,921 Thurlow St ,Apartment, Vancouver,BC,V6E 1W3,1.00,1.00,599,5/31/2022
+950000,1238 Melville St ,Apartment, Vancouver,BC,V6E 4N2,2.00,2.50,946,5/31/2022
+728000,1277 Nelson St ,Apartment, Vancouver,BC,V6E 4M8,1.00,1.00,736,8/12/2022
+625000,1725 Pendrell St ,Apartment, Vancouver,BC,V6G 2X7,1.00,1.00,668,11/4/2022
+1285000,1406 Harwood St ,Apartment, Vancouver,BC,V6G 1X5,2.00,1.00,929,7/29/2022
+1069000,1288 Alberni St ,Apartment, Vancouver,BC,V6E 4N5,2.00,2.50,908,9/13/2022
+2006000,1789 Davie St ,Apartment, Vancouver,BC,V6G 1W5,2.00,2.50,1430,10/11/2022
+664500,1688 Robson St ,Apartment, Vancouver,BC,V6G 1C7,1.00,1.00,539,6/1/2022
+820000,1200 Alberni St ,Apartment, Vancouver,BC,V6E 1A6,2.00,2.50,888,11/4/2022
+6300000,4538 Langara Ave,Single House, Vancouver,BC,V6R 1C8,3.00,5.50,4088,4/18/2022
+2694000,4218 W 13th Ave,Single House, Vancouver,BC,V6R 2T8,4.00,3.50,2879,11/12/2022
+540000,1967 Barclay St ,Apartment, Vancouver,BC,V6G 1L1,1.00,1.00,549,10/27/2022
+1200000,2681 E 18th Ave,Single House, Vancouver,BC,V5M 2P6,1.00,1.00,566,3/24/2022
+3588000,3311 W 7th Ave,Single House, Vancouver,BC,V6R 1V9,6.00,4.00,2982,6/23/2022
+8000000,4627 Bellevue Dr,Single House, Vancouver,BC,V6R 1E7,3.00,1.50,3490,4/28/2022
+1378000,1867 W 3rd Ave ,Apartment, Vancouver,BC,V6J 1K9,3.00,2.00,1386,11/10/2022
+752000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,1.00,1.00,668,3/30/2022
+1250000,209 E 39th Ave,Single House, Vancouver,BC,V5W 1K1,2.00,1.00,1782,3/25/2022
+665000,1331 W Georgia St ,Apartment, Vancouver,BC,V6E 4P1,1.00,1.00,556,5/10/2022
+1015000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,2.00,2.00,872,5/30/2022
+850000,4625 Valley Dr ,Apartment, Vancouver,BC,V6J 5L7,1.00,1.00,804,3/30/2022
+2068000,2890 E 16th Ave,Single House, Vancouver,BC,V5M 2M1,4.00,3.50,2366,8/31/2022
+600000,977 Mainland St ,Apartment, Vancouver,BC,V6B 1T2,1.00,1.00,537,11/30/2022
+1335000,1650 W 1st Ave ,Apartment, Vancouver,BC,V6J 1G1,2.00,2.50,875,5/16/2022
+1100000,33 Smithe St ,Apartment, Vancouver,BC,V6B 0B5,2.00,2.00,918,3/24/2022
+1100000,33 Smithe St ,Apartment, Vancouver,BC,V6B 0B5,2.00,2.00,918,3/24/2022
+2050000,41 E 41st Ave,Single House, Vancouver,BC,V5W 1N4,2.00,2.00,1750,3/30/2022
+1750000,3378 Seaforth Dr,Single House, Vancouver,BC,V5M 4C5,3.00,1.00,1282,6/1/2022
+735000,1420 W Georgia St ,Apartment, Vancouver,BC,V6G 3K4,1.00,1.00,681,4/28/2022
+6250000,1995 Whyte Ave,Single House, Vancouver,BC,V6J 1B4,1.00,2.50,2985,4/13/2022
+920000,555 Jervis St ,Apartment, Vancouver,BC,V6E 4N1,1.00,1.00,667,6/15/2022
+850000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,1.00,1.00,651,9/8/2022
+1435000,1389 E 39th Ave,Single House, Vancouver,BC,V5P 2X9,2.00,1.50,1490,6/29/2022
+1225777,3468 Porter St,Single House, Vancouver,BC,V5N 4E9,2.00,2.50,1193,6/16/2022
+658000,438 Seymour St ,Apartment, Vancouver,BC,V6B 6H4,1.00,1.00,560,5/30/2022
+1400000,5138 Fraser St,Single House, Vancouver,BC,V5W 2Y9,3.00,1.50,949,4/29/2022
+767000,6363 Main St,Single House, Vancouver,BC,V5W 2V2,6.00,4.00,1918,11/14/2022
+1715000,3059 E 1st Ave,Single House, Vancouver,BC,V5M 1B3,4.00,2.00,1550,3/14/2022
+625000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,647,8/2/2022
+1190000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,8/10/2022
+2250000,744 E 37th Ave,Single House, Vancouver,BC,V5W 1G1,4.00,2.00,1710,7/11/2022
+460000,4372 Fraser St ,Apartment, Vancouver,BC,V5V 4G3,1.00,1.50,478,6/20/2022
+665000,1515 E Broadway ,Apartment, Vancouver,BC,V5N 1V9,1.00,1.00,699,6/17/2022
+675000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,509,9/2/2022
+1840000,8380 Beatrice St,Single House, Vancouver,BC,V5P 3R9,3.00,2.00,1760,4/25/2022
+1800000,2091 E 20th Ave,Single House, Vancouver,BC,V5N 2L1,4.00,2.00,2088,4/12/2022
+930000,1635 W 3rd Ave ,Apartment, Vancouver,BC,V6J 0B6,2.00,2.50,800,10/27/2022
+1290000,4157 Sophia St ,Apartment, Vancouver,BC,V5V 3V4,2.00,2.50,1135,8/24/2022
+2250000,1421 E 62nd Ave,Single House, Vancouver,BC,V5P 2K6,4.00,2.00,1843,5/20/2022
+998000,1590 W 8th Ave ,Apartment, Vancouver,BC,V6J 4R8,2.00,2.50,1114,11/30/2022
+597000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,572,10/28/2022
+640000,822 Homer St ,Apartment, Vancouver,BC,V6B 6M3,2.00,2.50,792,11/15/2022
+1950000,2165 Brigadoon Ave,Single House, Vancouver,BC,V5P 2G2,4.00,2.50,1782,3/18/2022
+1820000,518 E 18th Ave,Single House, Vancouver,BC,V5V 1G3,5.00,3.50,2112,4/19/2022
+2850000,2055 E Broadway,Single House, Vancouver,BC,V5N 1W6,6.00,2.50,1963,12/1/2022
+1630000,1762 Davie St ,Apartment, Vancouver,BC,V6G 1W2,2.00,2.00,1580,3/11/2022
+1250000,1650 W 1st Ave ,Apartment, Vancouver,BC,V6J 1G1,2.00,2.50,879,4/28/2022
+2220000,2271 E 43rd Ave,Single House, Vancouver,BC,V5P 1M8,6.00,4.00,2505,2/15/2022
+1850000,5688 Fleming St,Single House, Vancouver,BC,V5P 1K4,6.00,3.00,1850,3/1/2022
+3694000,1688 W 61st Ave,Single House, Vancouver,BC,V6P 2C3,4.00,5.00,3838,6/2/2022
+2950000,4109 Elgin St,Single House, Vancouver,BC,V5V 4R3,5.00,3.50,2026,5/30/2022
+4250000,58 W 17th Ave,Single House, Vancouver,BC,V5Y 1Z4,6.00,4.50,3282,3/24/2022
+4410000,105 W 43rd Ave,Single House, Vancouver,BC,V5Y 2T6,8.00,6.50,4098,3/8/2022
+1450000,179 E 17th Ave,Single House, Vancouver,BC,V5V 1A5,2.00,2.50,1209,2/23/2022
+2100000,499 Drake St ,Apartment, Vancouver,BC,V6B 1B1,2.00,2.50,1426,10/4/2022
+775000,1275 Hamilton St ,Apartment, Vancouver,BC,V6B 6K3,1.00,1.00,704,5/16/2022
+545000,63 Keefer Pl ,Apartment, Vancouver,BC,V6B 6N6,1.00,1.50,589,5/20/2022
+1669000,1243 Homer St,Single House, Vancouver,BC,V6B 2Y9,1.00,2.00,1323,4/27/2022
+4200000,181 Athletes Way ,Apartment, Vancouver,BC,V5Y 0E5,3.00,2.50,2395,11/29/2022
+980000,1950 E 11th Ave ,Apartment, Vancouver,BC,V5N 1Z2,2.00,2.00,906,5/9/2022
+845000,4550 Fraser St ,Apartment, Vancouver,BC,V5V 4G7,2.00,2.50,880,4/13/2022
+1265000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,961,6/29/2022
+678000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,731,2/18/2022
+2125000,1226 Hamilton St,Penthouse, Vancouver,BC,V6B 2S8,2.00,2.00,1365,10/13/2022
+600000,5555 Victoria Dr ,Apartment, Vancouver,BC,V5P 4Y3,2.00,2.00,824,7/11/2022
+683552,1723 Alberni St ,Apartment, Vancouver,BC,V6G 3G9,1.00,1.00,567,6/27/2022
+705000,1887 Crowe St ,Apartment, Vancouver,BC,V5Y 0B4,1.00,1.00,607,6/30/2022
+1190000,1423 E 1st Ave,Single House, Vancouver,BC,V5N 1A4,3.00,1.00,1309,9/1/2022
+1430000,6856 Victoria Dr,Single House, Vancouver,BC,V5P 3Y5,5.00,2.00,1238,6/16/2022
+2300000,1855 Vine St ,Apartment, Vancouver,BC,V6K 3J8,2.00,1.50,1338,4/28/2022
+780000,2768 Cranberry Dr ,Apartment, Vancouver,BC,V6K 4V1,1.00,1.00,655,7/7/2022
+782000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,1.00,1.00,563,4/20/2022
+649000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,1.00,1.00,564,4/28/2022
+620000,1611 E 3rd Ave ,Apartment, Vancouver,BC,V5N 1H1,1.00,1.00,690,5/4/2022
+705000,822 Seymour St ,Apartment, Vancouver,BC,V6B 1L7,2.00,2.50,741,8/4/2022
+1495000,1372 Seymour St ,Apartment, Vancouver,BC,V6B 3P3,2.00,2.50,982,4/8/2022
+549000,8988 Hudson St ,Apartment, Vancouver,BC,V6P 6Z1,1.00,1.00,615,3/9/2022
+1725000,4320 Nanaimo St,Single House, Vancouver,BC,V5R 5G9,3.00,2.00,1340,3/29/2022
+700000,1550 SW Marine Dr ,Apartment, Vancouver,BC,V6P 6A6,2.00,2.50,849,5/31/2022
+895000,1038 W 7th Ave ,Apartment, Vancouver,BC,V6H 1B3,1.00,1.00,693,5/30/2022
+2380000,1513 W 66th Ave,Single House, Vancouver,BC,V6P 2R8,4.00,3.50,2378,11/25/2022
+3538000,7061 Cypress St,Single House, Vancouver,BC,V6P 5M2,2.00,2.50,3673,4/13/2022
+1820000,4858 Beatrice St,Single House, Vancouver,BC,V5N 4J4,5.00,4.00,2026,6/29/2022
+695000,515 E 15th Ave,Apartment, Vancouver,BC,V5T 4S4,2.00,2.50,809,7/15/2022
+941400,2258 E 7th Ave,Single House, Vancouver,BC,V5N 1S7,5.00,3.50,2629,11/25/2022
+1113000,199 Drake St,Apartment, Vancouver,BC,V6Z 2Y8,2.00,2.00,1192,3/9/2022
+1600000,4514 Nanaimo St,Single House, Vancouver,BC,V5N 5J4,4.00,4.50,1640,11/7/2022
+520000,774 Great Northern Way ,Apartment, Vancouver,BC,V5T 1E1,1.00,1.00,614,8/12/2022
+1680000,3494 Franklin St,Single House, Vancouver,BC,V5K 1Y3,2.00,1.00,2104,10/27/2022
+1080000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1002,11/30/2022
+1160000,2758 Dundas St,Single House, Vancouver,BC,V5K 1R2,1.00,1.00,1289,5/30/2022
+633000,570 E 8th Ave ,Apartment, Vancouver,BC,V5T 1S8,1.00,1.00,632,8/10/2022
+1017000,1081 W 8th Ave ,Apartment, Vancouver,BC,V6H 1C3,2.00,1.00,966,2/14/2022
+529200,989 Beatty St ,Apartment, Vancouver,BC,V6Z 3C2,1.00,1.00,482,9/14/2022
+1185000,1228 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W4,2.00,2.00,964,5/2/2022
+2275000,2826 Wall St,Single House, Vancouver,BC,V5K 1B2,2.00,1.00,920,5/2/2022
+750000,1225 Richards St ,Apartment, Vancouver,BC,V6B 1E6,1.00,1.00,592,6/15/2022
+1630000,2540 Triumph St,Single House, Vancouver,BC,V5K 1S8,5.00,2.00,2805,5/31/2022
+950000,3611 W 18th Ave ,Apartment, Vancouver,BC,V6S 1B3,2.00,2.00,788,2/24/2022
+1800000,2630 Eton St,Single House, Vancouver,BC,V5K 1K1,3.00,1.00,1953,7/20/2022
+740000,350 E 5th Ave ,Apartment, Vancouver,BC,V5T 1H4,1.00,1.00,545,6/29/2022
+550000,588 E 5th Ave ,Apartment, Vancouver,BC,V5T 4H6,1.00,1.00,673,5/9/2022
+2385000,3907 Dunbar St,Single House, Vancouver,BC,V6S 2E3,4.00,2.00,2075,2/15/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1244,4/26/2022
+885000,501 Pacific St ,Apartment, Vancouver,BC,V6Z 2X6,1.00,1.00,777,6/21/2022
+3600000,426 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E9,2.00,2.50,1837,5/2/2022
+3425000,1288 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W5,4.00,4.00,2035,7/7/2022
+1720000,3510 William St,Single House, Vancouver,BC,V5K 2Z7,5.00,2.00,1500,5/30/2022
+1900000,1067 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2Z5,3.00,2.00,1286,5/31/2022
+1050000,72 E 15th Ave,Single House, Vancouver,BC,V5T 2P4,2.00,2.50,1214,11/22/2022
+950000,838 W Hastings St ,Apartment, Vancouver,BC,V6C 0A6,2.00,1.00,802,4/8/2022
+4000000,2840 W 1st Ave,Single House, Vancouver,BC,V6K 1H4,2.00,2.50,2318,3/15/2022
+785000,489 Interurban Wy ,Apartment, Vancouver,BC,V5X 0C7,2.00,2.00,795,4/1/2022
+1860000,2616 Napier St,Single House, Vancouver,BC,V5K 2W6,4.00,1.50,2107,6/1/2022
+471000,688 E 56th Ave ,Apartment, Vancouver,BC,V5X 3V6,1.00,1.00,645,2/18/2022
+598000,950 Drake St ,Apartment, Vancouver,BC,V6Z 2B9,1.00,1.00,622,6/3/2022
+1218000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,2.00,2.50,911,11/9/2022
+4995000,4772 Narvaez Dr,Single House, Vancouver,BC,V6L 2J2,3.00,2.50,3078,9/6/2022
+1635000,488 E 16th Ave,Single House, Vancouver,BC,V5T 2T9,5.00,3.00,1866,3/17/2022
+490000,2288 W Broadway ,Apartment, Vancouver,BC,V6K 3L1,1.00,1.00,526,9/8/2022
+2650000,1501 Howe St,Apartment, Vancouver,BC,V6Z 2P8,4.00,1.50,1942,4/29/2022
+7206000,5941 Chancellor Blvd,Single House, Vancouver,BC,V6T 1E6,4.00,3.50,4691,10/14/2022
+11900000,4262 Carnarvon St,Single House, Vancouver,BC,V6L 2S2,5.00,4.50,5058,7/13/2022
+845000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,821,11/21/2022
+990000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,859,5/30/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1142,2/15/2022
+1705000,1066 E 54th Ave,Single House, Vancouver,BC,V5X 1L7,5.00,2.50,2364,2/18/2022
+2080000,1201 W 7th Ave,Single House, Vancouver,BC,V6H 1B7,3.00,2.00,1681,3/29/2022
+685080,2101 McMullen Ave ,Apartment, Vancouver,BC,V6L 3B4,1.00,1.00,910,4/5/2022
+950000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,1.00,1.00,719,6/28/2022
+1926000,283 W 63rd Ave,Single House, Vancouver,BC,V5X 2H9,7.00,3.00,2108,10/13/2022
+4831000,2393 McBain Ave,Single House, Vancouver,BC,V6L 2C5,4.00,6.00,3894,12/5/2022
+1522000,2328 Windsor St,Single House, Vancouver,BC,V5T 3Z5,3.00,2.50,1150,5/6/2022
+1890000,583 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E6,2.00,2.00,1150,7/15/2022
+1530000,1408 Strathmore Mews ,Apartment, Vancouver,BC,V6Z 3B1,2.00,2.00,1060,4/28/2022
+605000,789 Drake St ,Apartment, Vancouver,BC,V6Z 2N7,2.00,2.00,689,3/31/2022
+3500000,416 E 63rd Ave,Single House, Vancouver,BC,V5X 2K2,8.00,6.50,3403,9/12/2022
+1200000,1160 Burrard St ,Apartment, Vancouver,BC,V6Z 2E8,2.00,1.50,1121,4/4/2022
+1070000,2688 Watson St ,Apartment, Vancouver,BC,V5T 4T6,2.00,1.00,952,3/4/2022
+3300000,3122 W 16th Ave,Single House, Vancouver,BC,V6K 3E1,2.00,1.00,1968,3/2/2022
+2625000,536 E 8th Ave,Single House, Vancouver,BC,V5T 1S8,3.00,1.00,1100,5/27/2022
+1500000,549 E 7th Ave,Single House, Vancouver,BC,V5T 1N8,2.00,2.00,1226,9/20/2022
+1078750,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,863,6/30/2022
+875000,2083 W 33rd Ave ,Apartment, Vancouver,BC,V6M 4M6,2.00,2.50,815,3/16/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+1825000,5890 Balsam St ,Apartment, Vancouver,BC,V6M 4B9,3.00,2.50,1586,2/23/2022
+820000,2103 W 45th Ave ,Apartment, Vancouver,BC,V6M 3X3,2.00,2.50,859,11/15/2022
+3500000,2129 W 35th Ave,Single House, Vancouver,BC,V6M 1J2,5.00,6.00,3523,3/31/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+587000,5770 Oak St ,Apartment, Vancouver,BC,V6M 2V9,1.00,1.00,742,7/4/2022
+932500,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,778,6/30/2022
+1024600,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,759,2/28/2022
+4525000,2136 W 48th Ave,Single House, Vancouver,BC,V6M 2P5,4.00,2.00,3223,8/16/2022
+2375000,2242 W 49th Ave,Single House, Vancouver,BC,V6M 2T9,4.00,2.00,1934,5/16/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+1220000,522 W 8th Ave ,Apartment, Vancouver,BC,V5Z 0A9,2.00,2.50,1016,8/15/2022
+1100000,503 W 16th Ave ,Apartment, Vancouver,BC,V5Z 4N3,2.00,1.00,1466,7/29/2022
+1406500,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,2.00,2.00,1166,8/11/2022
+540000,2333 Triumph St ,Apartment, Vancouver,BC,V5L 1L4,1.00,1.00,649,3/1/2022
+670000,925 W 10th Ave ,Apartment, Vancouver,BC,V5Z 1L9,1.00,1.00,657,2/22/2022
+1100000,788 W 14th Ave ,Apartment, Vancouver,BC,V5Z 1P9,2.00,2.00,1157,7/20/2022
+925000,980 W 21st Ave ,Apartment, Vancouver,BC,V5Z 1Z1,2.00,2.50,988,11/15/2022
+1560000,1133 Templeton Dr,Single House, Vancouver,BC,V5L 2N9,2.00,2.50,1177,2/24/2022
+575000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,663,5/24/2022
+4900000,1967 Napier St,Single House, Vancouver,BC,V5L 2N6,8.00,2.00,5038,7/29/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+630000,1484 Charles St ,Apartment, Vancouver,BC,V5L 2S8,1.00,1.00,585,8/29/2022
+2800000,2081 Napier St,Single House, Vancouver,BC,V5L 2N8,6.00,3.00,2814,4/21/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+820000,2103 W 45th Ave ,Apartment, Vancouver,BC,V6M 3X3,2.00,2.50,859,11/15/2022
+3918000,1260 W 38th Ave,Single House, Vancouver,BC,V6M 1R1,4.00,2.50,3832,11/30/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+932500,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,778,6/30/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+750000,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,1.00,1.00,707,10/31/2022
+1863000,626 W 26th Ave,Single House, Vancouver,BC,V5Z 4H6,3.00,3.50,1756,9/6/2022
+700000,997 W 22nd Ave ,Apartment, Vancouver,BC,V5Z 2A2,1.00,1.00,598,6/30/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+2070000,3158 E 52nd Ave,Single House, Vancouver,BC,V5S 1T8,4.00,3.50,2254,7/7/2022
+1835000,2239 W 7th Ave ,Apartment, Vancouver,BC,V6K 1Y3,3.00,2.50,1301,7/12/2022
+5500000,6855 Cypress St,Single House, Vancouver,BC,V6P 5L9,5.00,2.50,2705,4/28/2022
+1060000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,1.50,1018,4/20/2022
+1010000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,2.50,931,2/24/2022
+515000,8031 Nunavut Lane ,Apartment, Vancouver,BC,V5X 0C9,1.00,1.00,453,4/13/2022
+823000,1688 Pullman Porter St ,Apartment, Vancouver,BC,V6A 0H3,1.00,1.50,674,2/18/2022
+1139000,2250 Commercial Dr ,Apartment, Vancouver,BC,V5N 4B5,2.00,1.50,964,3/24/2022
+500000,707 E 43rd Ave ,Apartment, Vancouver,BC,V5W 0C1,1.00,1.00,612,6/30/2022
+825600,6665 Main St ,Apartment, Vancouver,BC,V5X 3H3,2.00,2.50,1115,3/31/2022
+597000,488 SW Marine Dr ,Apartment, Vancouver,BC,V5X 0C7,1.00,1.00,497,6/22/2022
+880000,3263 Pierview Cres ,Apartment, Vancouver,BC,V5S 0C3,2.00,2.50,926,4/4/2022
+2525000,3896 Slocan St,Single House, Vancouver,BC,V5R 1Y5,7.00,3.50,2325,6/27/2022
+575800,204-53 W Hastings St ,Apartment, Vancouver,BC,V6B 1G4,2.00,1.00,797,4/29/2022
+608000,188 Keefer St ,Apartment, Vancouver,BC,V6A 1X4,1.00,1.00,520,10/31/2022
+1388888,1925 Alberni St ,Apartment, Vancouver,BC,V6G 0A3,2.00,2.50,1038,11/22/2022
+603000,1009 Harwood St ,Apartment, Vancouver,BC,V6Z 0C2,1.00,1.00,479,5/6/2022
+1500000,1488 W Hastings St,Single House, Vancouver,BC,V6E 3X2,3.00,2.50,1308,5/2/2022
+3243000,5741 Rhodes St,Single House, Vancouver,BC,V5R 3P3,6.00,6.50,3152,5/31/2022
+550000,3480 Yardley Ave ,Apartment, Vancouver,BC,V5R,2.00,1.00,759,8/31/2022
+704000,5663 Senlac St,Single House, Vancouver,BC,V5R 6G8,3.00,2.50,1400,3/29/2022
+2180000,5636 Killarney St,Single House, Vancouver,BC,V5R 3W2,3.00,1.50,2492,4/29/2022
+1850000,3338 Austrey Ave,Single House, Vancouver,BC,V5R 4V9,2.00,3.00,1977,6/29/2022
+1560000,5114 Fairmont St,Single House, Vancouver,BC,V5R 3V3,5.00,2.00,2168,3/30/2022
+1555000,5025 Earles St,Single House, Vancouver,BC,V5R 3R8,4.00,2.00,1957,2/28/2022
+985000,150 Alexander St ,Apartment, Vancouver,BC,V6A 1B5,1.00,1.00,958,8/25/2022
+1598000,1088 Quebec St ,Apartment, Vancouver,BC,V6A 4H2,3.00,2.00,1443,3/17/2022
+924000,110 Switchmen St ,Apartment, Vancouver,BC,V6A 0C6,2.00,2.50,853,11/14/2022
+2225000,1205 W Hastings St ,Apartment, Vancouver,BC,V6E 4T7,2.00,2.00,1277,6/8/2022
+1850000,1277 Melville St ,Apartment, Vancouver,BC,V6E 0A4,2.00,2.00,1431,9/6/2022
+1000000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,2.00,2.50,943,5/11/2022
+575000,921 Thurlow St ,Apartment, Vancouver,BC,V6E 1W3,1.00,1.00,599,5/31/2022
+950000,1238 Melville St ,Apartment, Vancouver,BC,V6E 4N2,2.00,2.50,946,5/31/2022
+728000,1277 Nelson St ,Apartment, Vancouver,BC,V6E 4M8,1.00,1.00,736,8/12/2022
+625000,1725 Pendrell St ,Apartment, Vancouver,BC,V6G 2X7,1.00,1.00,668,11/4/2022
+1285000,1406 Harwood St ,Apartment, Vancouver,BC,V6G 1X5,2.00,1.00,929,7/29/2022
+1069000,1288 Alberni St ,Apartment, Vancouver,BC,V6E 4N5,2.00,2.50,908,9/13/2022
+2006000,1789 Davie St ,Apartment, Vancouver,BC,V6G 1W5,2.00,2.50,1430,10/11/2022
+664500,1688 Robson St ,Apartment, Vancouver,BC,V6G 1C7,1.00,1.00,539,6/1/2022
+820000,1200 Alberni St ,Apartment, Vancouver,BC,V6E 1A6,2.00,2.50,888,11/4/2022
+6300000,4538 Langara Ave,Single House, Vancouver,BC,V6R 1C8,3.00,5.50,4088,4/18/2022
+2694000,4218 W 13th Ave,Single House, Vancouver,BC,V6R 2T8,4.00,3.50,2879,11/12/2022
+540000,1967 Barclay St ,Apartment, Vancouver,BC,V6G 1L1,1.00,1.00,549,10/27/2022
+1200000,2681 E 18th Ave,Single House, Vancouver,BC,V5M 2P6,1.00,1.00,566,3/24/2022
+3588000,3311 W 7th Ave,Single House, Vancouver,BC,V6R 1V9,6.00,4.00,2982,6/23/2022
+8000000,4627 Bellevue Dr,Single House, Vancouver,BC,V6R 1E7,3.00,1.50,3490,4/28/2022
+1378000,1867 W 3rd Ave ,Apartment, Vancouver,BC,V6J 1K9,3.00,2.00,1386,11/10/2022
+752000,1333 W Georgia St ,Apartment, Vancouver,BC,V6E 4V3,1.00,1.00,668,3/30/2022
+1250000,209 E 39th Ave,Single House, Vancouver,BC,V5W 1K1,2.00,1.00,1782,3/25/2022
+665000,1331 W Georgia St ,Apartment, Vancouver,BC,V6E 4P1,1.00,1.00,556,5/10/2022
+1015000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,2.00,2.00,872,5/30/2022
+850000,4625 Valley Dr ,Apartment, Vancouver,BC,V6J 5L7,1.00,1.00,804,3/30/2022
+2068000,2890 E 16th Ave,Single House, Vancouver,BC,V5M 2M1,4.00,3.50,2366,8/31/2022
+600000,977 Mainland St ,Apartment, Vancouver,BC,V6B 1T2,1.00,1.00,537,11/30/2022
+1335000,1650 W 1st Ave ,Apartment, Vancouver,BC,V6J 1G1,2.00,2.50,875,5/16/2022
+1100000,33 Smithe St ,Apartment, Vancouver,BC,V6B 0B5,2.00,2.00,918,3/24/2022
+1750000,3378 Seaforth Dr,Single House, Vancouver,BC,V5M 4C5,3.00,1.00,1282,6/1/2022
+735000,1420 W Georgia St ,Apartment, Vancouver,BC,V6G 3K4,1.00,1.00,681,4/28/2022
+920000,555 Jervis St ,Apartment, Vancouver,BC,V6E 4N1,1.00,1.00,667,6/15/2022
+1435000,1389 E 39th Ave,Single House, Vancouver,BC,V5P 2X9,2.00,1.50,1490,6/29/2022
+975000,5868 Fraser St ,Apartment, Vancouver,BC,V5W 2Z5,2.00,1.50,1076,9/1/2022
+4900000,1656 Nanton Ave,Single House, Vancouver,BC,V6J 2X4,4.00,4.00,4039,6/1/2022
+1225777,3468 Porter St,Single House, Vancouver,BC,V5N 4E9,2.00,2.50,1193,6/16/2022
+658000,438 Seymour St ,Apartment, Vancouver,BC,V6B 6H4,1.00,1.00,560,5/30/2022
+1400000,5138 Fraser St,Single House, Vancouver,BC,V5W 2Y9,3.00,1.50,949,4/29/2022
+767000,6363 Main St,Single House, Vancouver,BC,V5W 2V2,6.00,4.00,1918,11/14/2022
+1715000,3059 E 1st Ave,Single House, Vancouver,BC,V5M 1B3,4.00,2.00,1550,3/14/2022
+625000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,647,8/2/2022
+1280000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,3/4/2022
+1190000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,2.00,2.50,1081,8/10/2022
+775000,1804-1155 Homer St ,Apartment, Vancouver,BC,V6B 5T5,1.00,1.00,649,3/30/2022
+460000,4372 Fraser St ,Apartment, Vancouver,BC,V5V 4G3,1.00,1.50,478,6/20/2022
+675000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,509,9/2/2022
+1220000,1490 Pennyfarthing Dr,Apartment, Vancouver,BC,V6J 4X8,2.00,2.50,1497,11/30/2022
+1840000,8380 Beatrice St,Single House, Vancouver,BC,V5P 3R9,3.00,2.00,1760,4/25/2022
+1800000,2091 E 20th Ave,Single House, Vancouver,BC,V5N 2L1,4.00,2.00,2088,4/12/2022
+930000,1635 W 3rd Ave ,Apartment, Vancouver,BC,V6J 0B6,2.00,2.50,800,10/27/2022
+2250000,1421 E 62nd Ave,Single House, Vancouver,BC,V5P 2K6,4.00,2.00,1843,5/20/2022
+597000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,572,10/28/2022
+2980000,1348 E 24th Ave,Single House, Vancouver,BC,V5V 2B7,6.00,4.50,2878,4/5/2022
+1820000,518 E 18th Ave,Single House, Vancouver,BC,V5V 1G3,5.00,3.50,2112,4/19/2022
+1630000,1762 Davie St ,Apartment, Vancouver,BC,V6G 1W2,2.00,2.00,1580,3/11/2022
+1975000,2211 E 1st Ave,Single House, Vancouver,BC,V5N 1C1,6.00,5.00,2345,7/29/2022
+820000,428 W 8th Ave ,Apartment, Vancouver,BC,V5Y 1N9,1.00,1.50,784,5/17/2022
+2220000,2271 E 43rd Ave,Single House, Vancouver,BC,V5P 1M8,6.00,4.00,2505,2/15/2022
+3694000,1688 W 61st Ave,Single House, Vancouver,BC,V6P 2C3,4.00,5.00,3838,6/2/2022
+4250000,58 W 17th Ave,Single House, Vancouver,BC,V5Y 1Z4,6.00,4.50,3282,3/24/2022
+4410000,105 W 43rd Ave,Single House, Vancouver,BC,V5Y 2T6,8.00,6.50,4098,3/8/2022
+1450000,179 E 17th Ave,Single House, Vancouver,BC,V5V 1A5,2.00,2.50,1209,2/23/2022
+2400000,1275 Maple St,Single House, Vancouver,BC,V6J 3R8,4.00,2.00,1131,3/31/2022
+2850000,2045 E Broadway,Single House, Vancouver,BC,V5N 1W6,5.00,2.50,2588,12/1/2022
+7800000,2007 W 29th Ave,Single House, Vancouver,BC,V6J 2Z9,4.00,8.00,5906,11/29/2022
+2320000,996 E 20th Ave,Single House, Vancouver,BC,V5V 1N6,2.00,1.00,1773,6/28/2022
+2100000,499 Drake St ,Apartment, Vancouver,BC,V6B 1B1,2.00,2.50,1426,10/4/2022
+775000,1275 Hamilton St ,Apartment, Vancouver,BC,V6B 6K3,1.00,1.00,704,5/16/2022
+545000,63 Keefer Pl ,Apartment, Vancouver,BC,V6B 6N6,1.00,1.50,589,5/20/2022
+1669000,1243 Homer St,Single House, Vancouver,BC,V6B 2Y9,1.00,2.00,1323,4/27/2022
+4200000,181 Athletes Way ,Apartment, Vancouver,BC,V5Y 0E5,3.00,2.50,2395,11/29/2022
+678000,928 Homer St ,Apartment, Vancouver,BC,V6B 1T7,1.00,1.00,731,2/18/2022
+600000,5555 Victoria Dr ,Apartment, Vancouver,BC,V5P 4Y3,2.00,2.00,824,7/11/2022
+480000,550 Taylor St ,Apartment, Vancouver,BC,V6B 1R1,1.00,1.00,520,2/24/2022
+705000,1887 Crowe St ,Apartment, Vancouver,BC,V5Y 0B4,1.00,1.00,607,6/30/2022
+500000,8770 Laurel St ,Apartment, Vancouver,BC,V6P 3V6,1.00,2.50,886,4/8/2022
+1430000,6856 Victoria Dr,Single House, Vancouver,BC,V5P 3Y5,5.00,2.00,1238,6/16/2022
+2300000,1855 Vine St ,Apartment, Vancouver,BC,V6K 3J8,2.00,1.50,1338,4/28/2022
+780000,2768 Cranberry Dr ,Apartment, Vancouver,BC,V6K 4V1,1.00,1.00,655,7/7/2022
+845000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,1.00,1.00,695,8/8/2022
+782000,1088 Richards St ,Apartment, Vancouver,BC,V6B 0J8,1.00,1.00,563,4/20/2022
+555000,2238 Kingsway ,Apartment, Vancouver,BC,V5N 2T7,2.00,2.00,784,2/15/2022
+620000,1611 E 3rd Ave ,Apartment, Vancouver,BC,V5N 1H1,1.00,1.00,690,5/4/2022
+705000,822 Seymour St ,Apartment, Vancouver,BC,V6B 1L7,2.00,2.50,741,8/4/2022
+1495000,1372 Seymour St ,Apartment, Vancouver,BC,V6B 3P3,2.00,2.50,982,4/8/2022
+4860000,19 Peveril Ave,Single House, Vancouver,BC,V5Y 2L2,5.00,5.00,3672,6/1/2022
+4650000,4431 Ontario St,Single House, Vancouver,BC,V5V 3H2,3.00,4.00,3299,6/24/2022
+549000,8988 Hudson St ,Apartment, Vancouver,BC,V6P 6Z1,1.00,1.00,615,3/9/2022
+1725000,4320 Nanaimo St,Single House, Vancouver,BC,V5R 5G9,3.00,2.00,1340,3/29/2022
+630000,1351 Continental St ,Apartment, Vancouver,BC,V6Z 0C6,1.00,1.00,513,3/4/2022
+2380000,1513 W 66th Ave,Single House, Vancouver,BC,V6P 2R8,4.00,3.50,2378,11/25/2022
+3538000,7061 Cypress St,Single House, Vancouver,BC,V6P 5M2,2.00,2.50,3673,4/13/2022
+1820000,4858 Beatrice St,Single House, Vancouver,BC,V5N 4J4,5.00,4.00,2026,6/29/2022
+1030000,928 Richards St ,Apartment, Vancouver,BC,V6B 3C1,2.00,2.50,752,9/20/2022
+3900000,1438 W 55th Ave,Single House, Vancouver,BC,V6P 1R5,7.00,3.50,3703,6/30/2022
+941400,2258 E 7th Ave,Single House, Vancouver,BC,V5N 1S7,5.00,3.50,2629,11/25/2022
+701000,909 Mainland St ,Apartment, Vancouver,BC,V6B 1S3,1.00,1.00,589,3/31/2022
+1113000,199 Drake St,Apartment, Vancouver,BC,V6Z 2Y8,2.00,2.00,1192,3/9/2022
+1600000,4514 Nanaimo St,Single House, Vancouver,BC,V5N 5J4,4.00,4.50,1640,11/7/2022
+520000,774 Great Northern Way ,Apartment, Vancouver,BC,V5T 1E1,1.00,1.00,614,8/12/2022
+1680000,3494 Franklin St,Single House, Vancouver,BC,V5K 1Y3,2.00,1.00,2104,10/27/2022
+1160000,2758 Dundas St,Single House, Vancouver,BC,V5K 1R2,1.00,1.00,1289,5/30/2022
+633000,570 E 8th Ave ,Apartment, Vancouver,BC,V5T 1S8,1.00,1.00,632,8/10/2022
+1017000,1081 W 8th Ave ,Apartment, Vancouver,BC,V6H 1C3,2.00,1.00,966,2/14/2022
+2350000,2115 E 13th Ave,Single House, Vancouver,BC,V5N 2C6,5.00,2.50,2100,4/28/2022
+800000,1445 Marpole Ave ,Apartment, Vancouver,BC,V6H 1S5,2.00,1.00,819,10/28/2022
+1925000,1199 Seymour St ,Apartment, Vancouver,BC,V6B 1K3,2.00,2.00,1238,3/15/2022
+529200,989 Beatty St ,Apartment, Vancouver,BC,V6Z 3C2,1.00,1.00,482,9/14/2022
+1185000,1228 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W4,2.00,2.00,964,5/2/2022
+2275000,2826 Wall St,Single House, Vancouver,BC,V5K 1B2,2.00,1.00,920,5/2/2022
+750000,1225 Richards St ,Apartment, Vancouver,BC,V6B 1E6,1.00,1.00,592,6/15/2022
+1630000,2540 Triumph St,Single House, Vancouver,BC,V5K 1S8,5.00,2.00,2805,5/31/2022
+950000,3611 W 18th Ave ,Apartment, Vancouver,BC,V6S 1B3,2.00,2.00,788,2/24/2022
+1800000,2630 Eton St,Single House, Vancouver,BC,V5K 1K1,3.00,1.00,1953,7/20/2022
+740000,350 E 5th Ave ,Apartment, Vancouver,BC,V5T 1H4,1.00,1.00,545,6/29/2022
+550000,588 E 5th Ave ,Apartment, Vancouver,BC,V5T 4H6,1.00,1.00,673,5/9/2022
+2385000,3907 Dunbar St,Single House, Vancouver,BC,V6S 2E3,4.00,2.00,2075,2/15/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1244,4/26/2022
+885000,501 Pacific St ,Apartment, Vancouver,BC,V6Z 2X6,1.00,1.00,777,6/21/2022
+3600000,426 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E9,2.00,2.50,1837,5/2/2022
+3425000,1288 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2W5,4.00,4.00,2035,7/7/2022
+1720000,3510 William St,Single House, Vancouver,BC,V5K 2Z7,5.00,2.00,1500,5/30/2022
+1900000,1067 Marinaside Cres ,Apartment, Vancouver,BC,V6Z 2Z5,3.00,2.00,1286,5/31/2022
+1050000,72 E 15th Ave,Single House, Vancouver,BC,V5T 2P4,2.00,2.50,1214,11/22/2022
+950000,838 W Hastings St ,Apartment, Vancouver,BC,V6C 0A6,2.00,1.00,802,4/8/2022
+4000000,2840 W 1st Ave,Single House, Vancouver,BC,V6K 1H4,2.00,2.50,2318,3/15/2022
+785000,489 Interurban Wy ,Apartment, Vancouver,BC,V5X 0C7,2.00,2.00,795,4/1/2022
+1860000,2616 Napier St,Single House, Vancouver,BC,V5K 2W6,4.00,1.50,2107,6/1/2022
+471000,688 E 56th Ave ,Apartment, Vancouver,BC,V5X 3V6,1.00,1.00,645,2/18/2022
+598000,950 Drake St ,Apartment, Vancouver,BC,V6Z 2B9,1.00,1.00,622,6/3/2022
+1218000,2263 Redbud Lane ,Apartment, Vancouver,BC,V6K 4V7,2.00,2.50,911,11/9/2022
+4995000,4772 Narvaez Dr,Single House, Vancouver,BC,V6L 2J2,3.00,2.50,3078,9/6/2022
+1635000,488 E 16th Ave,Single House, Vancouver,BC,V5T 2T9,5.00,3.00,1866,3/17/2022
+490000,2288 W Broadway ,Apartment, Vancouver,BC,V6K 3L1,1.00,1.00,526,9/8/2022
+2650000,1501 Howe St,Apartment, Vancouver,BC,V6Z 2P8,4.00,1.50,1942,4/29/2022
+7206000,5941 Chancellor Blvd,Single House, Vancouver,BC,V6T 1E6,4.00,3.50,4691,10/14/2022
+11900000,4262 Carnarvon St,Single House, Vancouver,BC,V6L 2S2,5.00,4.50,5058,7/13/2022
+845000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,821,11/21/2022
+990000,3083 W 4th Ave ,Apartment, Vancouver,BC,V6K 1R5,2.00,2.50,859,5/30/2022
+1100000,909 Burrard St ,Apartment, Vancouver,BC,V6Z 2N2,2.00,2.50,1142,2/15/2022
+1705000,1066 E 54th Ave,Single House, Vancouver,BC,V5X 1L7,5.00,2.50,2364,2/18/2022
+2080000,1201 W 7th Ave,Single House, Vancouver,BC,V6H 1B7,3.00,2.00,1681,3/29/2022
+685080,2101 McMullen Ave ,Apartment, Vancouver,BC,V6L 3B4,1.00,1.00,910,4/5/2022
+1926000,283 W 63rd Ave,Single House, Vancouver,BC,V5X 2H9,7.00,3.00,2108,10/13/2022
+1890000,583 Beach Cres ,Apartment, Vancouver,BC,V6Z 3E6,2.00,2.00,1150,7/15/2022
+605000,789 Drake St ,Apartment, Vancouver,BC,V6Z 2N7,2.00,2.00,689,3/31/2022
+3500000,416 E 63rd Ave,Single House, Vancouver,BC,V5X 2K2,8.00,6.50,3403,9/12/2022
+2138000,517 E 58th Ave,Single House, Vancouver,BC,V5X 1W1,7.00,4.00,2471,9/8/2022
+847000,228 E 14th Ave ,Apartment, Vancouver,BC,V5T 2M6,2.00,1.00,815,8/31/2022
+3300000,3122 W 16th Ave,Single House, Vancouver,BC,V6K 3E1,2.00,1.00,1968,3/2/2022
+2625000,536 E 8th Ave,Single House, Vancouver,BC,V5T 1S8,3.00,1.00,1100,5/27/2022
+1078750,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,863,6/30/2022
+875000,2083 W 33rd Ave ,Apartment, Vancouver,BC,V6M 4M6,2.00,2.50,815,3/16/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+1825000,5890 Balsam St ,Apartment, Vancouver,BC,V6M 4B9,3.00,2.50,1586,2/23/2022
+3500000,2129 W 35th Ave,Single House, Vancouver,BC,V6M 1J2,5.00,6.00,3523,3/31/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+2006000,2071 W 42nd Ave ,Apartment, Vancouver,BC,V6M 2B4,3.00,2.00,1821,11/21/2022
+587000,5770 Oak St ,Apartment, Vancouver,BC,V6M 2V9,1.00,1.00,742,7/4/2022
+1024600,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,759,2/28/2022
+4525000,2136 W 48th Ave,Single House, Vancouver,BC,V6M 2P5,4.00,2.00,3223,8/16/2022
+2375000,2242 W 49th Ave,Single House, Vancouver,BC,V6M 2T9,4.00,2.00,1934,5/16/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+1220000,688 W 12th Ave,Apartment, Vancouver,BC,V5Z 1M8,3.00,2.00,1214,8/30/2022
+888000,688 W 12th Ave,Apartment, Vancouver,BC,V5Z 1M8,2.00,1.00,905,5/30/2022
+1406500,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,2.00,2.00,1166,8/11/2022
+670000,925 W 10th Ave ,Apartment, Vancouver,BC,V5Z 1L9,1.00,1.00,657,2/22/2022
+1100000,788 W 14th Ave ,Apartment, Vancouver,BC,V5Z 1P9,2.00,2.00,1157,7/20/2022
+925000,980 W 21st Ave ,Apartment, Vancouver,BC,V5Z 1Z1,2.00,2.50,988,11/15/2022
+575000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,663,5/24/2022
+4900000,1967 Napier St,Single House, Vancouver,BC,V5L 2N6,8.00,2.00,5038,7/29/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+630000,1484 Charles St ,Apartment, Vancouver,BC,V5L 2S8,1.00,1.00,585,8/29/2022
+1716000,2381 E Georgia St,Single House, Vancouver,BC,V5L 2C1,4.00,2.00,1706,9/15/2022
+2800000,2081 Napier St,Single House, Vancouver,BC,V5L 2N8,6.00,3.00,2814,4/21/2022
+2700000,6225 Brooks St,Single House, Vancouver,BC,V5S 3J2,7.00,5.00,2386,4/27/2022
+2400000,6825 McKinnon St,Single House, Vancouver,BC,V5S 3V4,5.00,2.50,2470,3/11/2022
+2070000,3158 E 52nd Ave,Single House, Vancouver,BC,V5S 1T8,4.00,3.50,2254,7/7/2022
+1127000,3219 Perrot Mews,Single House, Vancouver,BC,V5S 4W4,3.00,2.50,1405,6/17/2022
+2304000,6218 Kings Lynn St,Single House, Vancouver,BC,V5S 4V5,4.00,4.00,2288,5/18/2022
+1141000,2 Nanaimo St,Single House, Vancouver,BC,V5L 4R2,3.00,2.50,1591,5/3/2022
+544000,7828 Granville St ,Apartment, Vancouver,BC,V6P 4Z2,1.00,1.00,506,5/17/2022
+1050000,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,749,2/28/2022
+820000,2103 W 45th Ave ,Apartment, Vancouver,BC,V6M 3X3,2.00,2.50,859,11/15/2022
+3918000,1260 W 38th Ave,Single House, Vancouver,BC,V6M 1R1,4.00,2.50,3832,11/30/2022
+2518110,3111 W 43rd Ave,Single House, Vancouver,BC,V6N 3J4,6.00,7.50,6000,11/16/2022
+932500,5920 East Blvd ,Apartment, Vancouver,BC,V6M 3V4,1.00,1.00,778,6/30/2022
+6053000,6088 Churchill St,Single House, Vancouver,BC,V6M 3H5,4.00,2.50,4734,7/18/2022
+750000,525 Wheelhouse Sq ,Apartment, Vancouver,BC,V5Z 4L8,1.00,1.00,707,10/31/2022
+1863000,626 W 26th Ave,Single House, Vancouver,BC,V5Z 4H6,3.00,3.50,1756,9/6/2022
+700000,997 W 22nd Ave ,Apartment, Vancouver,BC,V5Z 2A2,1.00,1.00,598,6/30/2022
+500000,2033 Triumph St ,Apartment, Vancouver,BC,V5L 4X3,1.00,1.00,675,4/21/2022
+2070000,3158 E 52nd Ave,Single House, Vancouver,BC,V5S 1T8,4.00,3.50,2254,7/7/2022
+1835000,2239 W 7th Ave ,Apartment, Vancouver,BC,V6K 1Y3,3.00,2.50,1301,7/12/2022
+5500000,6855 Cypress St,Single House, Vancouver,BC,V6P 5L9,5.00,2.50,2705,4/28/2022
+1060000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,1.50,1018,4/20/2022
+1010000,8555 Granville St ,Apartment, Vancouver,BC,V6P 0C3,2.00,2.50,931,2/24/2022
+515000,8031 Nunavut Lane ,Apartment, Vancouver,BC,V5X 0C9,1.00,1.00,453,4/13/2022
+823000,1688 Pullman Porter St ,Apartment, Vancouver,BC,V6A 0H3,1.00,1.50,674,2/18/2022
+1139000,2250 Commercial Dr ,Apartment, Vancouver,BC,V5N 4B5,2.00,1.50,964,3/24/2022
+500000,707 E 43rd Ave ,Apartment, Vancouver,BC,V5W 0C1,1.00,1.00,612,6/30/2022
+825600,6665 Main St ,Apartment, Vancouver,BC,V5X 3H3,2.00,2.50,1115,3/31/2022
+597000,488 SW Marine Dr ,Apartment, Vancouver,BC,V5X 0C7,1.00,1.00,497,6/22/2022
+880000,3263 Pierview Cres ,Apartment, Vancouver,BC,V5S 0C3,2.00,2.50,926,4/4/2022
+2525000,3896 Slocan St,Single House, Vancouver,BC,V5R 1Y5,7.00,3.50,2325,6/27/2022
+575800,204-53 W Hastings St ,Apartment, Vancouver,BC,V6B 1G4,2.00,1.00,797,4/29/2022
+608000,188 Keefer St ,Apartment, Vancouver,BC,V6A 1X4,1.00,1.00,520,10/31/2022
+1388888,1925 Alberni St ,Apartment, Vancouver,BC,V6G 0A3,2.00,2.50,1038,11/22/2022
+603000,1009 Harwood St ,Apartment, Vancouver,BC,V6Z 0C2,1.00,1.00,479,5/6/2022
+1500000,1488 W Hastings St,Single House, Vancouver,BC,V6E 3X2,3.00,2.50,1308,5/2/2022
